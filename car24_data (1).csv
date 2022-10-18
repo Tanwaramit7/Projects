@@ -1,0 +1,841 @@
+,Engine_Version,Emi,Price,Fuel_Type,mnf_year,Company,Car_Name,km_drive,Owner
+0,Magna 1.2 AT  VTVT Automatic,"₹11,224/month","₹5,74,099",Petrol,2018,Hyundai,Grand i10,"7,299 ",1st
+1,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+2,"₹11,300off","₹10,473/month","₹5,35,699",Petrol,2018,Hyundai,Grand i10,"6,875 ",2nd
+3,MAGNA 1.2 KAPPA VTVT Manual,"₹10,268/month","₹5,25,199",Petrol,2018,Hyundai,Grand i10,"12,362 ",2nd
+4,MAGNA 1.2 VTVT Manual,"₹5,183/month","₹2,65,099",Petrol,2012,Hyundai,i20,"75,862 ",3rd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI 1.3 Manual,"₹4,367/month","₹2,23,399",Petrol,2009,Maruti,Swift Dzire,"26,277 ",2nd
+7,1.6 SX VTVT (O) Manual,"₹18,435/month","₹9,81,699",Petrol,2019,Hyundai,Verna,"81,902 ",1st
+8,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"10,806 ",1st
+9,LXI Manual,"₹10,428/month","₹5,33,399",Petrol,2019,Maruti,Swift,"27,808 ",1st
+10,ERA PLUS Manual,"₹5,069/month","₹2,59,299",Petrol,2016,Hyundai,Eon,"44,329 ",1st
+11,LXI Manual,"₹11,020/month","₹5,63,699",Petrol,2019,Maruti,Swift,"18,981 ",1st
+12,C 200 AVANTGARDE Automatic,"₹36,039/month","₹19,19,099",Petrol,2014,Mercedes,Benz C Class,"37,531 ",1st
+13,"₹8,700off","₹10,029/month","₹5,12,999",Petrol,2019,Hyundai,Grand i10,"20,011 ",2nd
+14,LXI Manual,"₹11,269/month","₹5,76,399",Petrol,2019,Maruti,Swift,"15,237 ",1st
+15,"₹5,000off","₹13,366/month","₹6,83,699",Petrol,2021,Hyundai,AURA,"4,912 ",1st
+16,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"12,031 ",1st
+17,LXI Manual,"₹10,575/month","₹5,40,899",Petrol,2020,Maruti,Swift,"38,382 ",1st
+18,"₹1,82,100off","₹32,170/month","₹17,13,099",Petrol,2020,KIA,SELTOS,"8,241 ",1st
+19,SHARP HYBRID PETROL Manual,"₹33,263/month","₹17,71,299",Petrol,2021,MG,HECTOR PLUS,"3,587 ",1st
+20,MAGNA 1.2 KAPPA2 Manual,"₹5,022/month","₹2,56,899",Petrol,2011,Hyundai,i10,"58,033 ",1st
+0,"₹35,100off","₹4,876/month","₹2,49,399",Petrol,2013,Hyundai,i10,"17,221 ",2nd
+1,VXI Manual,"₹5,273/month","₹2,69,699",Petrol,2011,Maruti,Wagon R 1.0,"32,770 ",1st
+2,SPORTZ 1.2 KAPPA2 Manual,"₹5,779/month","₹2,95,599",Petrol,2012,Hyundai,i10,"28,317 ",1st
+3,"₹33,500off","₹8,326/month","₹4,25,899",Petrol,2013,Maruti,Swift Dzire,"46,095 ",1st
+4,ZXI Manual,"₹8,586/month","₹4,39,199",OwnerPetrol + CNG,2012,Maruti,Swift,"48,177 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹12,219/month","₹6,24,999",Petrol,2019,Maruti,Swift,"16,391 ",2nd
+7,HIGHLINE1.2L PETROL Manual,"₹7,740/month","₹3,95,899",Petrol,2013,Volkswagen,Polo,"30,161 ",2nd
+8,ZXI Manual,"₹13,034/month","₹6,66,699",Petrol,2019,Maruti,Swift,"30,117 ",1st
+9,1.0 CLIMBER OPT AMT Automatic,"₹13,028/month","₹6,66,399",Petrol,2022,Renault,Kwid,"9,457 ",1st
+10,SPORTZ 1.2 VTVT Manual,"₹7,179/month","₹3,67,199",Petrol,2012,Hyundai,i20,"38,925 ",1st
+11,RXL Manual,"₹8,385/month","₹4,28,899",Petrol,2019,Renault,Kwid,"6,029 ",1st
+12,ZXI SMART HYBRID AT Automatic,"₹19,598/month","₹10,43,599",Petrol,2019,Maruti,Ertiga,"46,059 ",1st
+13,LXI CNG 1.0 L Manual,"₹12,334/month","₹6,30,899",OwnerPetrol + CNG,2021,Maruti,New  Wagon-R,"24,347 ",2nd
+14,"₹28,000off","₹15,615/month","₹8,31,499",Diesel,2012,BMW,3 Series,"77,834 ",1st
+15,VXI CNG Manual,"₹13,961/month","₹7,14,099",OwnerPetrol + CNG,2022,Maruti,Celerio,"1,793 ",1st
+16,"₹26,000off","₹13,179/month","₹6,74,099",Petrol,2019,Maruti,Swift,"12,126 ",1st
+17,MAGNA 1.2 KAPPA2 Manual,"₹5,912/month","₹3,02,399",Petrol,2014,Hyundai,i10,"62,954 ",2nd
+18,SPORTZ 1.2 KAPPA VTVT Manual,"₹9,677/month","₹4,94,999",Petrol,2018,Hyundai,Grand i10,"16,908 ",1st
+19,"₹5,000off","₹7,540/month","₹3,85,699",Petrol,2013,Volkswagen,Polo,"39,227 ",2nd
+20,LXI OPT Manual,"₹8,279/month","₹4,23,499",Petrol,2015,Maruti,Swift,"38,602 ",1st
+0,"₹35,100off","₹4,876/month","₹2,49,399",Petrol,2013,Hyundai,i10,"17,221 ",2nd
+1,VXI Manual,"₹5,273/month","₹2,69,699",Petrol,2011,Maruti,Wagon R 1.0,"32,770 ",1st
+2,SPORTZ 1.2 KAPPA2 Manual,"₹5,779/month","₹2,95,599",Petrol,2012,Hyundai,i10,"28,317 ",1st
+3,"₹33,500off","₹8,326/month","₹4,25,899",Petrol,2013,Maruti,Swift Dzire,"46,095 ",1st
+4,ZXI Manual,"₹8,586/month","₹4,39,199",OwnerPetrol + CNG,2012,Maruti,Swift,"48,177 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹12,219/month","₹6,24,999",Petrol,2019,Maruti,Swift,"16,391 ",2nd
+7,HIGHLINE1.2L PETROL Manual,"₹7,740/month","₹3,95,899",Petrol,2013,Volkswagen,Polo,"30,161 ",2nd
+8,ZXI Manual,"₹13,034/month","₹6,66,699",Petrol,2019,Maruti,Swift,"30,117 ",1st
+9,1.0 CLIMBER OPT AMT Automatic,"₹13,028/month","₹6,66,399",Petrol,2022,Renault,Kwid,"9,457 ",1st
+10,SPORTZ 1.2 VTVT Manual,"₹7,179/month","₹3,67,199",Petrol,2012,Hyundai,i20,"38,925 ",1st
+11,RXL Manual,"₹8,385/month","₹4,28,899",Petrol,2019,Renault,Kwid,"6,029 ",1st
+12,ZXI SMART HYBRID AT Automatic,"₹19,598/month","₹10,43,599",Petrol,2019,Maruti,Ertiga,"46,059 ",1st
+13,LXI CNG 1.0 L Manual,"₹12,334/month","₹6,30,899",OwnerPetrol + CNG,2021,Maruti,New  Wagon-R,"24,347 ",2nd
+14,"₹28,000off","₹15,615/month","₹8,31,499",Diesel,2012,BMW,3 Series,"77,834 ",1st
+15,VXI CNG Manual,"₹13,961/month","₹7,14,099",OwnerPetrol + CNG,2022,Maruti,Celerio,"1,793 ",1st
+16,"₹26,000off","₹13,179/month","₹6,74,099",Petrol,2019,Maruti,Swift,"12,126 ",1st
+17,MAGNA 1.2 KAPPA2 Manual,"₹5,912/month","₹3,02,399",Petrol,2014,Hyundai,i10,"62,954 ",2nd
+18,SPORTZ 1.2 KAPPA VTVT Manual,"₹9,677/month","₹4,94,999",Petrol,2018,Hyundai,Grand i10,"16,908 ",1st
+19,"₹5,000off","₹7,540/month","₹3,85,699",Petrol,2013,Volkswagen,Polo,"39,227 ",2nd
+20,LXI OPT Manual,"₹8,279/month","₹4,23,499",Petrol,2015,Maruti,Swift,"38,602 ",1st
+0,GLS Manual,"₹4,547/month","₹2,32,599",Petrol,2010,Hyundai,Santro Xing,"14,298 ",2nd
+1,"₹33,800off","₹18,494/month","₹9,84,799",Petrol,2020,Maruti,Ertiga,"19,946 ",2nd
+2,"₹2,08,300off","₹19,635/month","₹10,45,599",Petrol,2022,Nissan,MAGNITE,"1,794 ",1st
+3,GTX PLUS 1.5D AT DUAL TONE ,"₹30,803/month","₹16,40,299",Diesel,2022,KIA,SONET,"3,704 ",1st
+4,ZXI SMART HYBRID Manual,"₹22,077/month","₹11,75,599",Petrol,2020,Maruti,Ertiga,"17,115 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,1.0 CLIMBER OPT Manual,"₹11,153/month","₹5,70,499",Petrol,2021,Renault,Kwid,"3,026 ",1st
+7,SX (O) MT ,"₹15,697/month","₹8,35,899",Petrol,2022,Hyundai,AURA,"2,903 ",1st
+8,GLS Manual,"₹5,220/month","₹2,66,999",Petrol,2010,Hyundai,Santro Xing,"43,166 ",1st
+9,"₹5,000off","₹5,097/month","₹2,60,699",Petrol,2010,Maruti,A Star,"48,527 ",1st
+10,VXI Manual,"₹7,916/month","₹4,04,899",Petrol,2011,Maruti,Ritz,"40,032 ",1st
+11,"₹8,800off","₹5,967/month","₹3,05,199",Petrol,2012,Hyundai,i10,"35,547 ",2nd
+12,GTX PLUS 1.5D  AT ,"₹25,962/month","₹13,82,499",Diesel,2020,KIA,SONET,"11,375 ",1st
+13,"₹27,000off","₹17,583/month","₹9,36,299",Petrol,2021,Nissan,MAGNITE,"5,736 ",1st
+14,1.5 TDCI TITANIUM PLUS Manual,"₹21,406/month","₹11,39,899",Diesel,2019,Ford,Ecosport,"12,519 ",1st
+15,"₹27,600off","₹25,444/month","₹13,54,899",Diesel,2020,KIA,SONET,"11,539 ",1st
+16,"₹5,000off","₹6,399/month","₹3,27,299",Petrol,2011,Hyundai,i10,"29,295 ",2nd
+17,"₹40,100off","₹20,659/month","₹11,00,099",Petrol,2019,Maruti,Ertiga,"14,136 ",1st
+18,"₹73,000off","₹32,585/month","₹17,35,199",Diesel,2021,Tata,Safari,"9,682 ",2nd
+19,VXI Manual,"₹9,640/month","₹4,93,099",Petrol,2013,Maruti,Swift,"38,404 ",1st
+20,"₹36,600off","₹17,068/month","₹9,08,899",Petrol,2021,Maruti,Swift,"15,637 ",2nd
+0,MAGNA 1.2 KAPPA2 Manual,"₹5,421/month","₹2,77,299",Petrol,2012,Hyundai,i10,"39,135 ",1st
+1,1.2 VX I-VTECH Manual,"₹10,338/month","₹5,28,799",Petrol,2015,Honda,Jazz,"28,170 ",1st
+2,XT 1.2 REVOTRON Manual,"₹11,642/month","₹5,95,499",Petrol,2021,Tata,Tiago,"2,608 ",1st
+3,SPORTZ 1.2 KAPPA VTVT Manual,"₹7,496/month","₹3,83,399",Petrol,2014,Hyundai,Grand i10,"11,855 ",3rd
+4,MAGNA 1.2 VTVT Manual,"₹11,050/month","₹5,65,199",Petrol,2020,Hyundai,Grand i10,"13,265 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹5,000off","₹3,904/month","₹1,99,699",Petrol,2009,Hyundai,i10,"44,327 ",1st
+7,LXI Manual,"₹5,642/month","₹2,88,599",Petrol,2015,Maruti,Alto K10,"31,436 ",1st
+8,"₹44,000off","₹28,281/month","₹15,05,999",Diesel,2013,Jaguar,XF,"28,909 ",2nd
+9,ERA 1.1 IRDE Manual,"₹4,110/month","₹2,10,249",Petrol,2009,Hyundai,i10,"21,723 ",1st
+10,"₹19,200off","₹11,275/month","₹5,76,699",Petrol,2017,Hyundai,Grand i10,"9,446 ",1st
+11,1.2 V CVT I VTEC Automatic,"₹13,677/month","₹6,99,599",Petrol,2018,Honda,Amaze,"53,849 ",1st
+12,HIGHLINE PLUS 1.0 Manual,"₹11,849/month","₹6,06,099",Petrol,2018,Volkswagen,Ameo,"19,500 ",1st
+13,"₹8,700off","₹14,055/month","₹7,18,899",Petrol,2019,Tata,NEXON,"20,346 ",1st
+14,"₹14,300off","₹7,670/month","₹3,92,299",Petrol,2015,Maruti,Wagon R 1.0,"14,865 ",1st
+15,XZA 1.2 REVOTRON Automatic,"₹11,476/month","₹5,86,999",Petrol,2019,Tata,Tiago,"11,536 ",2nd
+16,1.2 W6 MT ,"₹20,336/month","₹10,82,899",Petrol,2021,Mahindra,XUV 3OO,"5,184 ",1st
+17,2.0 LIMITED Manual,"₹22,238/month","₹11,84,199",Diesel,2018,Jeep,Compass,"56,722 ",1st
+18,VX MT PETROL Manual,"₹12,420/month","₹6,35,299",Petrol,2014,Honda,City,"82,972 ",1st
+19,SPORTZ 1.2 KAPPA2 Manual,"₹4,434/month","₹2,26,799",Petrol,2011,Hyundai,i10,"56,227 ",2nd
+20,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+0,"₹35,500off","₹25,934/month","₹13,80,999",Petrol,2016,Volvo,V40 Cross Country,"21,635 ",1st
+1,VXI AMT Automatic,"₹11,458/month","₹5,86,099",Petrol,2018,Maruti,Swift,"60,151 ",1st
+2,VXI Manual,"₹12,999/month","₹6,64,899",Petrol,2020,Maruti,Swift,"17,554 ",1st
+3,VXI Manual,"₹7,716/month","₹3,94,699",Petrol,2017,Maruti,Celerio,"93,472 ",1st
+4,"₹7,300off","₹22,208/month","₹11,82,599",Diesel,2018,Jeep,Compass,"41,392 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹8,387/month","₹4,28,999",Petrol,2015,Maruti,Swift,"43,771 ",1st
+7,VXI Manual,"₹11,867/month","₹6,06,999",Petrol,2019,Maruti,Swift,"72,729 ",1st
+8,"₹28,500off","₹11,894/month","₹6,08,399",Petrol,2020,Volkswagen,Polo,"37,189 ",1st
+9,"₹5,000off","₹7,689/month","₹3,93,299",Petrol,2015,Hyundai,i10,"17,028 ",2nd
+10,"₹78,800off","₹33,397/month","₹17,78,399",Diesel,2021,Tata,Safari,"11,570 ",1st
+11,"₹43,300off","₹28,144/month","₹14,98,699",Petrol,2022,Skoda,KUSHAQ,"4,340 ",1st
+12,LX PETROL AT 4WD Automatic,"₹30,046/month","₹15,99,999",Petrol,2021,Mahindra,Thar,"1,254 ",1st
+13,"₹34,300off","₹15,345/month","₹7,84,899",Petrol,2021,Renault,Kiger,"4,401 ",1st
+14,ALPHA 1.2 K12 Manual,"₹9,429/month","₹4,82,299",Petrol,2016,Maruti,Baleno,"65,499 ",2nd
+15,"₹58,400off","₹59,082/month","₹31,46,199",Diesel,2018,Jeep,GRAND CHEROKEE,"90,443 ",1st
+16,"₹10,500off","₹17,547/month","₹9,34,399",Petrol,2021,Maruti,Baleno,"3,476 ",1st
+17,"₹30,500off","₹10,250/month","₹5,24,299",Petrol,2020,Maruti,New  Wagon-R,"6,648 ",2nd
+18,COMFORTLINE 1.0 PETROL Manual,"₹10,665/month","₹5,45,499",Petrol,2018,Volkswagen,Polo,"27,071 ",1st
+19,GT TSI AT 1.0 Automatic,"₹16,428/month","₹8,74,799",Petrol,2020,Volkswagen,Polo,"8,615 ",2nd
+20,"₹54,700off","₹31,951/month","₹17,01,399",Petrol,2022,MG,ASTOR,"15,724 ",1st
+0,"₹35,500off","₹25,934/month","₹13,80,999",Petrol,2016,Volvo,V40 Cross Country,"21,635 ",1st
+1,VXI Manual,"₹12,999/month","₹6,64,899",Petrol,2020,Maruti,Swift,"17,554 ",1st
+2,VXI Manual,"₹7,716/month","₹3,94,699",Petrol,2017,Maruti,Celerio,"93,472 ",1st
+3,VXI Manual,"₹11,867/month","₹6,06,999",Petrol,2019,Maruti,Swift,"72,729 ",1st
+4,"₹28,500off","₹11,894/month","₹6,08,399",Petrol,2020,Volkswagen,Polo,"37,189 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹5,000off","₹7,689/month","₹3,93,299",Petrol,2015,Hyundai,i10,"17,028 ",2nd
+7,"₹43,300off","₹28,144/month","₹14,98,699",Petrol,2022,Skoda,KUSHAQ,"4,340 ",1st
+8,"₹34,300off","₹15,345/month","₹7,84,899",Petrol,2021,Renault,Kiger,"4,401 ",1st
+9,"₹58,400off","₹59,082/month","₹31,46,199",Diesel,2018,Jeep,GRAND CHEROKEE,"90,443 ",1st
+10,"₹30,500off","₹10,250/month","₹5,24,299",Petrol,2020,Maruti,New  Wagon-R,"6,648 ",2nd
+11,COMFORTLINE 1.0 PETROL Manual,"₹10,665/month","₹5,45,499",Petrol,2018,Volkswagen,Polo,"27,071 ",1st
+12,GT TSI AT 1.0 Automatic,"₹16,428/month","₹8,74,799",Petrol,2020,Volkswagen,Polo,"8,615 ",2nd
+13,"₹54,700off","₹31,951/month","₹17,01,399",Petrol,2022,MG,ASTOR,"15,724 ",1st
+14,"₹5,000off","₹10,150/month","₹5,19,199",Petrol,2015,Maruti,Swift Dzire,"94,168 ",1st
+15,"₹30,100off","₹9,189/month","₹4,69,999",Petrol,2020,Maruti,New  Wagon-R,"47,101 ",1st
+16,5 STR WITH AC PLUSHTR Manual,"₹10,389/month","₹5,31,399",Petrol,2021,Maruti,Eeco,"2,833 ",1st
+17,"₹27,900off","₹9,431/month","₹4,82,399",Petrol,2021,Maruti,Celerio,"21,607 ",2nd
+18,"₹19,600off","₹10,332/month","₹5,28,499",Petrol,2017,Volkswagen,Polo,"90,125 ",1st
+19,"₹46,000off","₹8,328/month","₹4,25,999",Petrol,2021,Datsun,Redi Go,"2,631 ",1st
+20,1.2 MAGNA PLUS VTVT Manual,"₹11,857/month","₹6,06,499",Petrol,2019,Hyundai,Elite i20,"97,453 ",1st
+0,MAGNA 1.2 KAPPA2 Manual,"₹5,421/month","₹2,77,299",Petrol,2012,Hyundai,i10,"39,135 ",1st
+1,1.2 VX I-VTECH Manual,"₹10,338/month","₹5,28,799",Petrol,2015,Honda,Jazz,"28,170 ",1st
+2,XT 1.2 REVOTRON Manual,"₹11,642/month","₹5,95,499",Petrol,2021,Tata,Tiago,"2,608 ",1st
+3,SPORTZ 1.2 KAPPA VTVT Manual,"₹7,496/month","₹3,83,399",Petrol,2014,Hyundai,Grand i10,"11,855 ",3rd
+4,MAGNA 1.2 VTVT Manual,"₹11,050/month","₹5,65,199",Petrol,2020,Hyundai,Grand i10,"13,265 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹5,000off","₹3,904/month","₹1,99,699",Petrol,2009,Hyundai,i10,"44,327 ",1st
+7,LXI Manual,"₹5,642/month","₹2,88,599",Petrol,2015,Maruti,Alto K10,"31,436 ",1st
+8,"₹44,000off","₹28,281/month","₹15,05,999",Diesel,2013,Jaguar,XF,"28,909 ",2nd
+9,ERA 1.1 IRDE Manual,"₹4,110/month","₹2,10,249",Petrol,2009,Hyundai,i10,"21,723 ",1st
+10,"₹19,200off","₹11,275/month","₹5,76,699",Petrol,2017,Hyundai,Grand i10,"9,446 ",1st
+11,1.2 V CVT I VTEC Automatic,"₹13,677/month","₹6,99,599",Petrol,2018,Honda,Amaze,"53,849 ",1st
+12,HIGHLINE PLUS 1.0 Manual,"₹11,849/month","₹6,06,099",Petrol,2018,Volkswagen,Ameo,"19,500 ",1st
+13,"₹8,700off","₹14,055/month","₹7,18,899",Petrol,2019,Tata,NEXON,"20,346 ",1st
+14,"₹14,300off","₹7,670/month","₹3,92,299",Petrol,2015,Maruti,Wagon R 1.0,"14,865 ",1st
+15,XZA 1.2 REVOTRON Automatic,"₹11,476/month","₹5,86,999",Petrol,2019,Tata,Tiago,"11,536 ",2nd
+16,1.2 W6 MT ,"₹20,336/month","₹10,82,899",Petrol,2021,Mahindra,XUV 3OO,"5,184 ",1st
+17,2.0 LIMITED Manual,"₹22,238/month","₹11,84,199",Diesel,2018,Jeep,Compass,"56,722 ",1st
+18,VX MT PETROL Manual,"₹12,420/month","₹6,35,299",Petrol,2014,Honda,City,"82,972 ",1st
+19,SPORTZ 1.2 KAPPA2 Manual,"₹4,434/month","₹2,26,799",Petrol,2011,Hyundai,i10,"56,227 ",2nd
+20,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+0,SPORTZ 1.2 KAPPA2 Manual,"₹6,371/month","₹3,25,899",Petrol,2012,Hyundai,i10,"31,946 ",1st
+1,1.2 MAGNA PLUS VTVT Manual,"₹12,848/month","₹6,57,199",Petrol,2020,Hyundai,Elite i20,"7,583 ",2nd
+2,"₹12,200off","₹11,638/month","₹5,95,299",Petrol,2019,Maruti,Swift,"57,877 ",1st
+3,"₹37,500off","₹9,316/month","₹4,76,499",Petrol,2020,Maruti,S PRESSO,"1,709 ",2nd
+4,LXI Manual,"₹10,991/month","₹5,62,199",Petrol,2018,Maruti,Swift,"16,072 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,1.2 SPORTS PLUS VTVT Manual,"₹14,954/month","₹7,64,899",Petrol,2020,Hyundai,Elite i20,"43,637 ",1st
+7,MAGNA 1.2 VTVT Manual,"₹8,045/month","₹4,11,499",Petrol,2016,Hyundai,Grand i10,"32,783 ",1st
+8,SPORTZ 1.2 KAPPA VTVT Manual,"₹8,397/month","₹4,29,499",Petrol,2016,Hyundai,Grand i10,"47,393 ",1st
+9,COMFORTLINE 1.0 PETROL Manual,"₹9,988/month","₹5,10,899",Petrol,2018,Volkswagen,Polo,"57,633 ",1st
+10,"₹37,200off","₹8,242/month","₹4,21,599",Petrol,2021,Maruti,Alto,"1,902 ",1st
+11,"₹11,300off","₹12,166/month","₹6,22,299",Petrol,2021,Renault,TRIBER,"21,150 ",1st
+12,1.2 MAGNA PLUS VTVT Manual,"₹12,651/month","₹6,47,099",Petrol,2019,Hyundai,Elite i20,"20,049 ",1st
+13,"₹25,900off","₹8,551/month","₹4,37,399",Petrol,2017,Hyundai,Grand i10,"41,301 ",1st
+14,"₹9,100off","₹6,932/month","₹3,54,599",Petrol,2013,Hyundai,i20,"82,195 ",1st
+15,"₹32,100off","₹13,224/month","₹6,76,399",Petrol,2018,Honda,City,"69,379 ",1st
+16,"₹5,400off","₹8,004/month","₹4,09,399",Petrol,2017,Honda,Brio,"41,797 ",2nd
+17,"₹10,600off","₹12,575/month","₹6,43,199",Petrol,2019,Hyundai,Elite i20,"23,749 ",1st
+18,"₹24,000off","₹8,852/month","₹4,52,799",Petrol,2017,Hyundai,Grand i10,"41,418 ",1st
+19,VXI Manual,"₹5,703/month","₹2,91,699",Petrol,2011,Maruti,Wagon R 1.0,"57,780 ",1st
+20,LXI Manual,"₹7,005/month","₹3,58,299",Petrol,2014,Maruti,Wagon R 1.0,"25,616 ",1st
+0,"₹9,200off","₹8,864/month","₹4,53,399",Petrol,2015,Volkswagen,Polo,"68,401 ",2nd
+1,"₹20,000off","₹5,855/month","₹2,99,499",Petrol,2018,Maruti,Alto 800,"30,253 ",1st
+2,"₹23,700off","₹11,894/month","₹6,08,399",Petrol,2019,Maruti,Swift,"47,289 ",1st
+3,SPORTZ O 1.2 Manual,"₹11,067/month","₹5,66,099",Petrol,2018,Hyundai,Grand i10,"10,381 ",1st
+4,1.0 RXT Opt Manual,"₹7,032/month","₹3,59,699",Petrol,2018,Renault,Kwid,"20,153 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹8,532/month","₹4,36,399",Petrol,2018,Maruti,Celerio,"31,324 ",1st
+7,ZXI Manual,"₹8,553/month","₹4,37,499",Petrol,2018,Maruti,Celerio,"71,195 ",2nd
+8,RXT 1.0 EASY-R AT OPTION Automatic,"₹8,330/month","₹4,26,099",Petrol,2020,Renault,Kwid,"23,174 ",1st
+9,1.0 RXT Opt Manual,"₹7,427/month","₹3,79,899",Petrol,2018,Renault,Kwid,"22,013 ",1st
+10,ZXI Manual,"₹8,358/month","₹4,27,499",Petrol,2014,Maruti,Swift,"63,475 ",2nd
+11,ZXI 1.2 Manual,"₹10,768/month","₹5,50,799",Petrol,2020,Maruti,New  Wagon-R,"10,341 ",1st
+12,"₹25,200off","₹22,903/month","₹12,19,599",Diesel,2018,Jeep,Compass,"79,592 ",1st
+13,RXT Opt Manual,"₹6,727/month","₹3,44,099",Petrol,2017,Renault,Kwid,"35,070 ",2nd
+14,MAGNA 1.2 VTVT Manual,"₹10,170/month","₹5,20,199",Petrol,2017,Hyundai,Grand i10,"13,383 ",1st
+15,"₹28,100off","₹22,298/month","₹11,87,399",Petrol,2022,Hyundai,NEW I20 N LINE,"2,913 ",1st
+16,"₹11,800off","₹9,634/month","₹4,92,799",Petrol,2018,Maruti,Wagon R 1.0,"6,847 ",1st
+17,"₹14,000off","₹31,569/month","₹16,81,099",Diesel,2020,KIA,SELTOS,"11,397 ",2nd
+18,HTX+ MT 1.5 DIESEL Manual,"₹32,589/month","₹17,35,399",Diesel,2021,KIA,SELTOS,"6,026 ",1st
+19,ERA PLUS Manual,"₹6,397/month","₹3,27,199",Petrol,2016,Hyundai,Eon,"37,163 ",1st
+20,MAGNA 1.2 KAPPA VTVT Manual,"₹9,539/month","₹4,87,949",Petrol,2017,Hyundai,Grand i10,"17,644 ",1st
+0,LXI Manual,"₹11,650/month","₹5,95,899",Petrol,2020,Maruti,Swift,"4,172 ",1st
+1,ZXI+ Manual,"₹14,107/month","₹7,21,599",Petrol,2020,Maruti,Swift,"7,720 ",1st
+2,VXI Manual,"₹11,828/month","₹6,04,999",Petrol,2019,Maruti,Swift,"34,269 ",2nd
+3,MAGNA 1.2 KAPPA2 Manual,"₹4,403/month","₹2,25,199",Petrol,2011,Hyundai,i10,"96,280 ",2nd
+4,"₹32,700off","₹13,988/month","₹7,15,499",Petrol,2021,Nissan,MAGNITE,"16,550 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹47,500off","₹37,607/month","₹20,02,599",Petrol,2021,Mahindra,XUV700,"5,801 ",1st
+7,VXI Manual,"₹12,635/month","₹6,46,299",Petrol,2020,Maruti,Swift,"55,412 ",1st
+8,XZ 1.2 REVOTRON Manual,"₹8,487/month","₹4,34,099",Petrol,2018,Tata,Tiago,"84,145 ",2nd
+9,"₹11,200off","₹5,165/month","₹2,64,199",Petrol,2015,Hyundai,Eon,"78,282 ",3rd
+10,"₹6,900off","₹15,329/month","₹8,16,299",Petrol,2021,Nissan,MAGNITE,"20,233 ",1st
+11,"₹5,000off","₹7,476/month","₹3,82,399",Petrol,2018,Maruti,Alto K10,"8,108 ",1st
+12,W11 (O) Manual,"₹30,082/month","₹16,01,899",Diesel,2019,Mahindra,XUV500,"29,398 ",2nd
+13,1.2 SPORTS PLUS VTVT Manual,"₹13,873/month","₹7,09,599",Petrol,2019,Hyundai,Elite i20,"22,553 ",1st
+14,"₹20,200off","₹26,522/month","₹14,12,299",Petrol,2022,MG,ASTOR,"8,582 ",1st
+15,"₹18,000off","₹17,771/month","₹9,46,299",Diesel,2014,Toyota,Innova,"82,425 ",1st
+16,RXT Manual,"₹8,710/month","₹4,45,499",Petrol,2020,Renault,Kwid,"7,911 ",1st
+17,ZDI + Manual,"₹14,637/month","₹7,48,699",Diesel,2019,Maruti,Swift,"38,472 ",1st
+18,VXI Manual,"₹8,541/month","₹4,36,899",Petrol,2018,Maruti,Celerio,"71,880 ",1st
+19,PRESTIGE 2.0 MT 7STR ,"₹32,388/month","₹17,24,699",Petrol,2022,Hyundai,ALCAZAR,"8,864 ",1st
+20,3.0 AT 4X2 Automatic,"₹19,652/month","₹10,46,499",Diesel,2012,Toyota,Fortuner,"91,816 ",2nd
+0,ZXI Plus SHVS Manual,"₹18,432/month","₹9,81,499",Petrol,2019,Maruti,Ertiga,"28,363 ",2nd
+1,"₹14,000off","₹6,299/month","₹3,22,199",Petrol,2013,Maruti,Wagon R 1.0,"48,966 ",1st
+2,"₹45,700off","₹16,755/month","₹8,92,199",Petrol,2021,Nissan,MAGNITE,"6,808 ",2nd
+3,RXL EASY R 1.0 L ,"₹15,489/month","₹8,24,799",Petrol,2021,Renault,Kiger,"2,734 ",1st
+4,"₹12,000off","₹11,838/month","₹6,05,499",Petrol,2019,Hyundai,Elite i20,"14,925 ",3rd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹8,200off","₹9,273/month","₹4,74,299",Petrol,2010,Honda,City,"92,055 ",1st
+7,RX L PETROL Manual,"₹8,233/month","₹4,21,099",Petrol,2016,Renault,Pulse,"11,015 ",1st
+8,"₹39,500off","₹7,290/month","₹3,72,899",Petrol,2016,Renault,Pulse,"48,103 ",1st
+9,"₹18,000off","₹8,109/month","₹4,14,799",Petrol,2018,Maruti,Wagon R 1.0,"16,777 ",3rd
+10,"₹56,500off","₹11,519/month","₹5,89,199",Petrol,2021,Maruti,New  Wagon-R,"5,560 ",1st
+11,"₹20,300off","₹8,434/month","₹4,31,399",Petrol,2018,Maruti,Wagon R 1.0,"20,646 ",2nd
+12,LXI Manual,"₹5,214/month","₹2,66,699",Petrol,2013,Maruti,Alto 800,"30,129 ",1st
+13,TOPLINE 1.0 TSI MT ,"₹29,470/month","₹15,69,299",Petrol,2022,Volkswagen,TAIGUN,"7,754 ",1st
+14,"₹50,400off","₹12,258/month","₹6,26,999",Petrol,2019,Maruti,Swift,"28,529 ",1st
+15,"₹67,600off","₹35,053/month","₹18,66,599",Diesel,2021,Tata,Harrier,"3,766 ",1st
+16,"₹61,500off","₹26,150/month","₹13,92,499",Diesel,2019,Mahindra,XUV500,"45,225 ",1st
+17,"₹59,400off","₹12,348/month","₹6,31,599",Diesel,2019,Maruti,Swift,"85,019 ",2nd
+18,"₹47,300off","₹11,836/month","₹6,05,399",Petrol,2019,Maruti,Swift,"74,279 ",1st
+19,MAGNA 1.2 KAPPA2 Manual,"₹7,488/month","₹3,82,999",Petrol,2013,Hyundai,i10,"21,676 ",1st
+20,"₹92,700off","₹26,306/month","₹14,00,799",Diesel,2017,Mahindra,XUV500,"55,048 ",1st
+0,1.2 VXMT I VTEC Manual,"₹11,583/month","₹5,92,499",Petrol,2016,Honda,Amaze,"32,373 ",1st
+1,"₹5,000off","₹13,271/month","₹6,78,799",Petrol,2019,Maruti,Swift,"18,466 ",1st
+2,"₹16,000off","₹16,503/month","₹8,78,799",Petrol,2018,Hyundai,Verna,"26,719 ",2nd
+3,"₹51,600off","₹18,353/month","₹9,77,299",Petrol,2019,Hyundai,VENUE,"14,736 ",1st
+4,"₹8,000off","₹7,900/month","₹4,04,099",Petrol,2016,Maruti,Wagon R 1.0,"17,448 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹17,300off","₹9,658/month","₹4,93,999",Petrol,2018,Maruti,IGNIS,"49,519 ",1st
+7,XZA 1.2 REVOTRON Automatic,"₹10,391/month","₹5,31,499",Petrol,2017,Tata,Tiago,"30,528 ",1st
+8,VXI Manual,"₹12,770/month","₹6,53,199",Petrol,2017,Maruti,Dzire,"27,678 ",1st
+9,VXI Manual,"₹10,612/month","₹5,42,799",Petrol,2019,Maruti,Celerio,"16,233 ",1st
+10,"₹14,020off","₹6,174/month","₹3,15,799",Petrol,2018,Maruti,Alto 800,"34,680 ",2nd
+11,RXL Manual,"₹8,256/month","₹4,22,299",Petrol,2019,Renault,Kwid,"20,403 ",1st
+12,VXI (O) AMT Automatic,"₹8,772/month","₹4,48,699",Petrol,2017,Maruti,Alto K10,"19,214 ",1st
+13,"₹14,300off","₹12,305/month","₹6,29,399",Petrol,2017,Maruti,Dzire,"41,556 ",1st
+14,"₹18,100off","₹9,318/month","₹4,76,599",Petrol,2019,Hyundai,NEW SANTRO,"33,624 ",1st
+15,"₹18,300off","₹6,821/month","₹3,48,899",Petrol,2016,Renault,Kwid,"34,669 ",1st
+16,ASTA 1.2 (O) Manual,"₹13,169/month","₹6,73,599",Petrol,2016,Hyundai,Elite i20,"28,749 ",1st
+17,"₹30,400off","₹10,373/month","₹5,30,599",Petrol,2020,Hyundai,NEW SANTRO,"20,418 ",1st
+18,"₹6,500off","₹8,553/month","₹4,37,499",Petrol,2017,Maruti,Wagon R 1.0,"15,291 ",1st
+19,"₹5,000off","₹9,171/month","₹4,69,099",Petrol,2018,Renault,Kwid,"31,904 ",1st
+20,ASTA 1.2 Manual,"₹12,884/month","₹6,58,999",Petrol,2016,Hyundai,Elite i20,"46,046 ",1st
+0,LXI Manual,"₹10,403/month","₹5,32,099",Petrol,2019,Maruti,Swift,"37,089 ",1st
+1,VXI Manual,"₹3,838/month","₹1,96,299",Petrol,2009,Maruti,A Star,"47,298 ",1st
+2,VXI AMT Automatic,"₹12,238/month","₹6,25,999",Petrol,2019,Maruti,Swift,"45,067 ",2nd
+3,"₹5,000off","₹9,847/month","₹5,03,699",Petrol,2018,Maruti,Wagon R 1.0,"14,764 ",1st
+4,"₹5,000off","₹4,606/month","₹2,35,599",Petrol,2011,Maruti,Alto K10,"38,042 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹4,467/month","₹2,28,499",Petrol,2014,Maruti,Alto K10,"63,659 ",3rd
+7,"₹1,06,000off","₹29,964/month","₹15,95,599",Petrol,2019,MG,HECTOR,"58,968 ",1st
+8,"₹1,09,800off","₹30,287/month","₹16,12,799",Petrol,2019,MG,HECTOR,"44,846 ",1st
+9,VXI Manual,"₹4,338/month","₹2,21,899",Petrol,2011,Maruti,Alto K10,"30,834 ",2nd
+10,VXI AMT Automatic,"₹7,370/month","₹3,76,999",Petrol,2016,Maruti,Alto K10,"30,888 ",1st
+11,VXI AMT Automatic,"₹9,988/month","₹5,10,899",Petrol,2018,Maruti,Wagon R 1.0,"15,854 ",1st
+12,G AT Automatic,"₹26,101/month","₹13,89,899",Petrol,2017,Toyota,Corolla Altis,"75,422 ",1st
+13,VXI PLUS Manual,"₹12,887/month","₹6,59,199",OwnerPetrol + CNG,2016,Maruti,Ciaz,"83,441 ",1st
+14,VXI Manual,"₹7,026/month","₹3,59,399",Petrol,2015,Maruti,Wagon R 1.0,"26,677 ",1st
+15,LXI 1.0 L Manual,"₹9,914/month","₹5,07,099",Petrol,2019,Maruti,New  Wagon-R,"3,373 ",1st
+16,XT 1.2 ,"₹14,682/month","₹7,50,999",Petrol,2021,Tata,ALTROZ,"9,855 ",1st
+17,VXI AMT Automatic,"₹12,278/month","₹6,27,999",Petrol,2018,Maruti,Swift,"31,027 ",2nd
+18,VXI AMT Automatic,"₹11,949/month","₹6,11,199",Petrol,2018,Maruti,Swift,"28,449 ",1st
+19,"₹14,300off","₹9,517/month","₹4,86,799",Petrol,2018,Maruti,Wagon R 1.0,"23,732 ",2nd
+20,VXI Manual,"₹7,476/month","₹3,82,399",Petrol,2012,Maruti,Swift Dzire,"61,580 ",1st
+0,"₹20,000off","₹37,423/month","₹19,92,799",Petrol,2019,Jeep,Compass,"23,327 ",1st
+1,SIGMA 1.2 K12 Manual,"₹11,800/month","₹6,03,599",Petrol,2020,Maruti,Baleno,"15,936 ",1st
+2,LIMITED 2.0 4*4 Manual,"₹27,066/month","₹14,41,299",Diesel,2017,Jeep,Compass,"37,697 ",1st
+3,SIGMA 1.2 K12 Manual,"₹11,750/month","₹6,00,999",Petrol,2020,Maruti,Baleno,"13,525 ",1st
+4,HIGHLINE A/T Automatic,"₹40,225/month","₹21,41,999",Diesel,2018,Volkswagen,TIGUAN,"74,860 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,1.1 ERA EXICUTIVE Manual,"₹9,253/month","₹4,73,299",Petrol,2020,Hyundai,NEW SANTRO,"3,812 ",2nd
+7,ZXI Manual,"₹8,004/month","₹4,09,399",Petrol,2012,Maruti,Swift,"13,540 ",1st
+8,SHARP DCT PETROL Automatic,"₹31,453/month","₹16,74,899",Petrol,2019,MG,HECTOR,"9,378 ",1st
+9,2.0 LIMITED Manual,"₹33,460/month","₹17,81,799",Diesel,2019,Jeep,Compass,"46,860 ",1st
+10,LXI Manual,"₹12,278/month","₹6,27,999",Petrol,2021,Maruti,Swift,"4,524 ",1st
+11,XM+ 1.2 RTN ,"₹14,080/month","₹7,20,176",Petrol,2021,Tata,ALTROZ,"7,789 ",1st
+12,XE 1.2 Manual,"₹12,551/month","₹6,41,999",Petrol,2021,Tata,ALTROZ,"7,708 ",1st
+13,"₹32,800off","₹33,090/month","₹17,62,099",Petrol,2020,MG,HECTOR,"12,803 ",1st
+14,RXL Manual,"₹5,701/month","₹2,91,599",Petrol,2018,Renault,Kwid,"59,638 ",1st
+15,MAGNA 1.2 KAPPA VTVT Manual,"₹7,320/month","₹3,74,399",Petrol,2014,Hyundai,Grand i10,"11,349 ",1st
+16,"₹46,400off","₹19,782/month","₹10,53,399",Petrol,2021,KIA,SONET,"10,079 ",1st
+17,RXL Manual,"₹7,632/month","₹3,90,399",Petrol,2020,Renault,Kwid,"6,285 ",1st
+18,SX 1.2 OPT Manual,"₹9,151/month","₹4,68,099",Petrol,2014,Hyundai,Xcent,"16,294 ",1st
+19,SHARP DCT PETROL Automatic,"₹30,636/month","₹16,31,399",Petrol,2019,MG,HECTOR,"11,988 ",1st
+20,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+0,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"10,806 ",1st
+1,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"12,031 ",1st
+2,LXI Manual,"₹11,269/month","₹5,76,399",Petrol,2019,Maruti,Swift,"15,237 ",1st
+3,LXI Manual,"₹12,278/month","₹6,27,999",Petrol,2021,Maruti,Swift,"4,524 ",1st
+4,XE 1.2 Manual,"₹12,551/month","₹6,41,999",Petrol,2021,Tata,ALTROZ,"7,708 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+7,LXI Manual,"₹11,020/month","₹5,63,699",Petrol,2019,Maruti,Swift,"18,981 ",1st
+8,XT 1.2 REVOTRON Manual,"₹11,642/month","₹5,95,499",Petrol,2021,Tata,Tiago,"2,608 ",1st
+9,SIGMA 1.2 K12 Manual,"₹11,750/month","₹6,00,999",Petrol,2020,Maruti,Baleno,"13,525 ",1st
+10,VXI Manual,"₹11,791/month","₹6,03,099",Petrol,2019,Maruti,Swift,"23,926 ",1st
+11,MAGNA 1.2 VTVT Manual,"₹5,183/month","₹2,65,099",Petrol,2012,Hyundai,i20,"75,862 ",3rd
+12,DELTA 1.2 K12 Manual,"₹14,186/month","₹7,25,599",Petrol,2020,Maruti,Baleno,"4,260 ",1st
+13,"₹5,000off","₹13,366/month","₹6,83,699",Petrol,2021,Hyundai,AURA,"4,912 ",1st
+14,VXI 1.0 Manual,"₹11,454/month","₹5,85,899",Petrol,2021,Maruti,New  Wagon-R,"3,371 ",1st
+15,RXL Manual,"₹7,429/month","₹3,79,999",Petrol,2019,Renault,Kwid,"3,589 ",1st
+16,LXI Manual,"₹5,849/month","₹2,99,199",Petrol,2016,Maruti,Alto 800,"10,839 ",1st
+17,VXI Manual,"₹11,488/month","₹5,87,599",Petrol,2018,Maruti,Swift,"16,534 ",1st
+18,LXI Manual,"₹10,575/month","₹5,40,899",Petrol,2020,Maruti,Swift,"38,382 ",1st
+19,MAGNA 1.2 KAPPA2 Manual,"₹5,421/month","₹2,77,299",Petrol,2012,Hyundai,i10,"39,135 ",1st
+20,"₹5,000off","₹10,465/month","₹5,35,299",Petrol,2021,Maruti,New  Wagon-R,"9,267 ",1st
+0,GL PLUS Manual,"₹5,404/month","₹2,76,399",Petrol,2012,Hyundai,Santro Xing,"36,240 ",1st
+1,"₹30,700off","₹8,217/month","₹4,20,299",Petrol,2011,Maruti,Swift,"49,957 ",2nd
+2,"₹5,000off","₹5,339/month","₹2,73,099",Petrol,2010,Hyundai,i10,"81,385 ",2nd
+3,"₹5,400off","₹5,621/month","₹2,87,499",Petrol,2011,Hyundai,i10,"98,797 ",2nd
+4,GLS Manual,"₹5,720/month","₹2,92,599",Petrol,2012,Hyundai,Santro Xing,"45,417 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,S MT PETROL Manual,"₹8,985/month","₹4,59,599",Petrol,2010,Honda,City,"71,117 ",2nd
+7,VXI Manual,"₹12,704/month","₹6,49,799",Petrol,2020,Maruti,Swift,"61,278 ",1st
+8,VDI BS IV Manual,"₹9,591/month","₹4,90,599",Diesel,2013,Maruti,Swift Dzire,"47,478 ",2nd
+9,"₹17,900off","₹9,363/month","₹4,78,899",Diesel,2013,Maruti,Swift Dzire,"90,314 ",1st
+10,MAGNA O 1.2 Manual,"₹7,120/month","₹3,64,199",Petrol,2011,Hyundai,i20,"44,456 ",3rd
+11,Trendline 1.0 L Petrol Manual,"₹11,235/month","₹5,74,699",Petrol,2019,Volkswagen,Polo,"58,597 ",1st
+12,RXL Manual,"₹6,010/month","₹3,07,399",Petrol,2016,Renault,Kwid,"35,226 ",1st
+13,"₹5,000off","₹4,989/month","₹2,55,199",Petrol,2014,Maruti,Alto 800,"55,882 ",1st
+14,VXI Manual,"₹5,030/month","₹2,57,299",Petrol,2015,Maruti,Alto K10,"2,35,466 ",1st
+15,"₹63,300off","₹16,435/month","₹8,75,199",Petrol,2021,Nissan,MAGNITE,"8,345 ",1st
+16,VXI Manual,"₹7,902/month","₹4,04,199",Petrol,2012,Maruti,Swift,"85,384 ",1st
+17,"₹5,000off","₹7,505/month","₹3,83,899",Petrol,2012,Hyundai,i10,"68,072 ",2nd
+18,"₹5,000off","₹10,068/month","₹5,14,999",Petrol,2016,Volkswagen,Polo,"78,978 ",2nd
+19,SPORTZ 1.2 AT KAPPA2 Automatic,"₹7,638/month","₹3,90,699",Petrol,2012,Hyundai,i10,"46,988 ",2nd
+20,"₹21,000off","₹7,824/month","₹4,00,199",Petrol,2018,Maruti,Alto K10,"6,593 ",1st
+0,VXI Manual,"₹11,828/month","₹6,04,999",Petrol,2019,Maruti,Swift,"34,269 ",2nd
+1,ZDI + Manual,"₹14,637/month","₹7,48,699",Diesel,2019,Maruti,Swift,"38,472 ",1st
+2,MAGNA 1.2 KAPPA VTVT Manual,"₹7,953/month","₹4,06,799",Petrol,2016,Hyundai,Grand i10,"27,275 ",2nd
+3,"₹6,800off","₹15,433/month","₹8,21,799",Petrol,2021,Maruti,Baleno,"4,153 ",1st
+4,LX D 4*4 MT HT Manual,"₹29,633/month","₹15,77,999",Diesel,2021,Mahindra,Thar,"9,034 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,SX 1.0 GDI IMT Manual,"₹18,931/month","₹10,08,099",Petrol,2020,Hyundai,VENUE,"26,430 ",1st
+7,"₹21,400off","₹9,740/month","₹4,98,199",Petrol,2019,Maruti,New  Wagon-R,"14,049 ",1st
+8,MAGNA 1.2 MT Manual,"₹12,622/month","₹6,45,599",Petrol,2021,Hyundai,GRAND I10 NIOS,"9,419 ",1st
+9,LDI Manual,"₹12,541/month","₹6,41,499",Diesel,2016,Maruti,Vitara Brezza,"58,693 ",2nd
+10,"₹31,400off","₹25,374/month","₹13,51,199",Diesel,2019,Mahindra,Scorpio,"35,501 ",1st
+11,"₹27,900off","₹13,816/month","₹7,06,699",Diesel,2017,Hyundai,Elite i20,"45,039 ",1st
+12,SPORTZ 1.2 Manual,"₹9,736/month","₹4,97,999",Petrol,2015,Hyundai,Elite i20,"55,271 ",2nd
+13,"₹21,300off","₹6,059/month","₹3,09,899",Petrol,2016,Maruti,Alto K10,"57,110 ",1st
+14,"₹29,600off","₹14,565/month","₹7,44,999",Petrol,2017,Honda,WR-V,"16,639 ",1st
+15,"₹5,000off","₹8,758/month","₹4,47,999",Petrol,2019,Maruti,S PRESSO,"20,914 ",1st
+16,"₹5,000off","₹7,605/month","₹3,88,999",Petrol,2020,Maruti,Alto,"6,797 ",1st
+17,250 CDI CLASSIC Automatic,"₹14,831/month","₹7,58,599",Diesel,2010,Mercedes,Benz C Class,"1,15,853 ",1st
+18,SX PETROL MT Manual,"₹20,460/month","₹10,89,499",Petrol,2020,Hyundai,Verna,"22,429 ",2nd
+19,"₹10,000off","₹15,132/month","₹7,73,999",Diesel,2015,Mahindra,XUV500,"1,17,389 ",2nd
+20,"₹18,200off","₹14,796/month","₹7,56,799",Diesel,2018,Ford,Ecosport,"53,869 ",2nd
+0,VXI OPT Manual,"₹10,645/month","₹5,44,499",Petrol,2017,Maruti,Swift,"14,293 ",1st
+1,SPORTS 1.2 VTVT Manual,"₹8,596/month","₹4,39,699",Petrol,2017,Hyundai,Grand i10,"78,388 ",2nd
+2,LXI Manual,"₹5,656/month","₹2,89,299",Petrol,2018,Maruti,Alto 800,"45,530 ",1st
+3,SPORTS 1.2 VTVT Manual,"₹9,523/month","₹4,87,099",Petrol,2018,Hyundai,Grand i10,"90,412 ",1st
+4,XZ 2.0L Kryotec Manual,"₹30,640/month","₹16,31,599",Diesel,2019,Tata,Harrier,"43,113 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,1.2 S MT I VTEC Manual,"₹8,068/month","₹4,12,699",Petrol,2016,Honda,Brio,"89,706 ",1st
+7,RXL Manual,"₹8,657/month","₹4,42,799",Petrol,2019,Renault,Kwid,"12,366 ",1st
+8,VXI Manual,"₹10,086/month","₹5,15,899",Petrol,2015,Maruti,Swift,"24,945 ",1st
+9,MAGNA 1.2 KAPPA VTVT Manual,"₹8,627/month","₹4,41,299",Petrol,2016,Hyundai,Grand i10,"78,388 ",1st
+10,VXI Manual,"₹11,675/month","₹5,97,199",Petrol,2018,Maruti,Swift,"83,770 ",1st
+11,1.5TITANIUM TDCI Manual,"₹13,878/month","₹7,09,849",Diesel,2016,Ford,Ecosport,"86,420 ",2nd
+12,SPORTZ 1.1 IRDE2 Manual,"₹8,235/month","₹4,21,199",Petrol,2016,Hyundai,i10,"26,540 ",1st
+13,VXI 1.0 Manual,"₹11,372/month","₹5,81,699",Petrol,2020,Maruti,New  Wagon-R,"12,899 ",1st
+14,"₹17,300off","₹24,236/month","₹12,90,599",Diesel,2018,Hyundai,Creta,"82,473 ",2nd
+15,"₹5,000off","₹7,128/month","₹3,64,599",Petrol,2015,Honda,Brio,"52,328 ",2nd
+16,VXI 1.0 Manual,"₹11,300/month","₹5,77,999",Petrol,2020,Maruti,New  Wagon-R,"23,364 ",1st
+17,VXI (O) AMT Automatic,"₹6,868/month","₹3,51,299",Petrol,2018,Maruti,Alto K10,"1,26,194 ",1st
+18,"₹10,000off","₹6,760/month","₹3,45,799",Petrol,2018,Maruti,Alto K10,"1,05,971 ",1st
+19,ERA 1.1 Manual,"₹9,761/month","₹4,99,299",Petrol,2020,Hyundai,NEW SANTRO,"5,589 ",2nd
+20,VXI 1.0 Manual,"₹11,065/month","₹5,65,999",Petrol,2020,Maruti,New  Wagon-R,"52,107 ",1st
+0,SPORTZ 1.2 Manual,"₹10,057/month","₹5,14,399",Petrol,2016,Hyundai,Elite i20,"39,077 ",1st
+1,"₹13,000off","₹17,076/month","₹9,09,299",Diesel,2020,Hyundai,AURA,"12,464 ",1st
+2,LXI Manual,"₹5,750/month","₹2,94,099",Petrol,2018,Maruti,Alto 800,"12,028 ",2nd
+3,"₹11,000off","₹11,259/month","₹5,75,899",Petrol,2017,Maruti,Baleno,"9,200 ",1st
+4,MAGNA 1.2 KAPPA VTVT Manual,"₹8,739/month","₹4,46,999",Petrol,2017,Hyundai,Grand i10,"25,815 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹7,000off","₹10,606/month","₹5,42,499",Petrol,2018,Volkswagen,Polo,"50,789 ",1st
+7,ZXI AMT Automatic,"₹9,264/month","₹4,73,849",Petrol,2017,Maruti,Celerio,"80,446 ",1st
+8,"₹13,000off","₹5,406/month","₹2,76,499",Petrol,2018,Maruti,Alto 800,"97,458 ",1st
+9,SPORTS 1.2 VTVT Manual,"₹9,083/month","₹4,64,599",Petrol,2016,Hyundai,Grand i10,"30,945 ",1st
+10,"₹12,000off","₹7,384/month","₹3,77,699",Petrol,2017,Maruti,Wagon R 1.0,"29,124 ",1st
+11,MAGNA 1.1 IRDE2 Manual,"₹6,614/month","₹3,38,299",Petrol,2015,Hyundai,i10,"41,280 ",1st
+12,"₹10,000off","₹9,548/month","₹4,88,399",Petrol,2017,Maruti,Swift,"50,727 ",2nd
+13,1.2 SMT I VTEC Manual,"₹10,100/month","₹5,16,599",Petrol,2016,Honda,Amaze,"40,195 ",1st
+14,"₹5,500off","₹5,675/month","₹2,90,299",Petrol,2018,Maruti,Alto 800,"43,196 ",1st
+15,VXI Manual,"₹10,886/month","₹5,56,799",Petrol,2018,Maruti,Swift,"46,568 ",2nd
+16,"₹10,000off","₹10,463/month","₹5,35,199",Petrol,2018,Honda,Jazz,"30,802 ",2nd
+17,"₹30,600off","₹10,291/month","₹5,26,399",Petrol,2017,Maruti,Baleno,"76,946 ",1st
+18,MAGNA 1.2 VTVT Manual,"₹8,669/month","₹4,43,399",Petrol,2016,Hyundai,Grand i10,"56,291 ",1st
+19,ZXI Manual,"₹10,905/month","₹5,57,799",Petrol,2017,Maruti,Swift,"45,091 ",1st
+20,S 1.2 Manual,"₹10,274/month","₹5,25,499",Petrol,2016,Hyundai,Xcent,"29,543 ",2nd
+0,VXI Manual,"₹10,102/month","₹5,16,699",Petrol,2018,Maruti,Swift,"37,030 ",1st
+1,"₹35,950off","₹12,633/month","₹6,46,199",Petrol,2020,Maruti,Swift,"2,944 ",1st
+2,SPORTZ 1.1 IRDE2 Manual,"₹5,423/month","₹2,77,399",Petrol,2015,Hyundai,i10,"32,506 ",2nd
+3,"₹22,000off","₹9,990/month","₹5,10,999",Petrol,2018,Maruti,Swift,"30,217 ",1st
+4,RXT Manual,"₹5,928/month","₹3,03,199",Petrol,2016,Renault,Kwid,"6,748 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹47,500off","₹15,314/month","₹7,83,299",Diesel,2020,Ford,Ecosport,"12,860 ",1st
+7,ZXI Plus SHVS Manual,"₹19,769/month","₹10,52,699",Petrol,2021,Maruti,Ertiga,572 ,1st
+8,ZXI Manual,"₹7,288/month","₹3,72,799",Petrol,2010,Maruti,Ritz,"64,372 ",1st
+9,"₹31,500off","₹7,271/month","₹3,71,899",Petrol,2014,Maruti,Swift Dzire,"25,911 ",2nd
+10,"₹14,400off","₹11,585/month","₹5,92,599",Petrol,2019,Maruti,Swift,"21,388 ",1st
+11,VXI Manual,"₹5,715/month","₹2,92,299",Petrol,2012,Maruti,Wagon R 1.0,"13,562 ",1st
+12,"₹22,400off","₹9,781/month","₹5,00,299",Petrol,2021,Maruti,Celerio,"15,944 ",1st
+13,"₹14,550off","₹10,744/month","₹5,49,549",Petrol,2020,Maruti,New  Wagon-R,"7,113 ",1st
+14,"₹18,700off","₹8,758/month","₹4,47,999",Petrol,2016,Maruti,Swift,"16,379 ",1st
+15,"₹18,300off","₹8,776/month","₹4,48,899",Petrol,2021,Renault,Kwid,"3,685 ",1st
+16,1.4 VTVT E Manual,"₹13,875/month","₹7,09,699",Petrol,2018,Hyundai,Verna,"31,530 ",1st
+17,RXT Opt Manual,"₹5,482/month","₹2,80,399",Petrol,2016,Renault,Kwid,"14,579 ",1st
+18,"₹41,800off","₹14,876/month","₹7,60,899",Petrol,2021,Hyundai,VENUE,"7,239 ",1st
+19,"₹36,300off","₹11,151/month","₹5,70,399",Petrol,2019,Maruti,Swift,"17,035 ",1st
+20,"₹10,000off","₹11,126/month","₹5,69,099",Petrol,2018,Maruti,Swift,"16,301 ",1st
+0,LX Manual,"₹3,599/month","₹1,84,099",Petrol,2010,Maruti,Alto,"7,956 ",1st
+1,"₹20,350off","₹4,351/month","₹2,22,549",Petrol,2016,Maruti,Alto 800,"1,01,405 ",1st
+2,"₹8,000off","₹3,904/month","₹1,99,699",Petrol,2009,Hyundai,i10,"62,164 ",2nd
+3,"₹8,000off","₹8,543/month","₹4,36,999",Petrol,2018,Hyundai,Grand i10,"21,782 ",1st
+4,"₹8,000off","₹4,667/month","₹2,38,699",Petrol,2008,Hyundai,i10,"23,872 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹85,800off","₹9,456/month","₹4,83,699",Petrol,2016,Hyundai,Elite i20,"55,422 ",2nd
+7,"₹31,800off","₹9,365/month","₹4,78,999",Petrol,2019,Maruti,Celerio,"9,553 ",1st
+8,"₹10,000off","₹4,532/month","₹2,31,799",Petrol,2014,Hyundai,Eon,"39,971 ",3rd
+9,"₹5,000off","₹8,995/month","₹4,60,099",Petrol,2018,Hyundai,Grand i10,"22,695 ",1st
+10,"₹26,000off","₹8,549/month","₹4,37,299",Petrol,2018,Hyundai,Grand i10,"34,938 ",3rd
+11,SPORTZ 1.1 IRDE2 Manual,"₹6,158/month","₹3,14,999",Petrol,2014,Hyundai,i10,"28,062 ",3rd
+12,"₹10,000off","₹4,393/month","₹2,24,699",Petrol,2013,Maruti,Alto 800,"50,142 ",4th
+13,"₹21,000off","₹6,772/month","₹3,46,399",Petrol,2014,Hyundai,Grand i10,"66,607 ",1st
+14,VXI OPT Manual,"₹10,565/month","₹5,40,399",Petrol,2016,Maruti,Swift,"27,254 ",1st
+15,"₹6,000off","₹3,943/month","₹2,01,699",Petrol,2009,Hyundai,i10,"87,582 ",1st
+16,"₹10,000off","₹4,221/month","₹2,15,899",Petrol,2013,Maruti,Alto 800,"79,382 ",1st
+17,"₹12,900off","₹7,613/month","₹3,89,399",Petrol,2018,Maruti,Eeco,"22,471 ",1st
+18,"₹22,000off","₹7,427/month","₹3,79,899",Petrol,2014,Hyundai,Grand i10,"59,850 ",1st
+19,"₹28,000off","₹8,927/month","₹4,56,599",Petrol,2016,Hyundai,Grand i10,"56,243 ",1st
+20,"₹5,000off","₹4,436/month","₹2,26,899",Petrol,2010,Maruti,Wagon R,"76,764 ",2nd
+0,LXI Manual,"₹11,650/month","₹5,95,899",Petrol,2020,Maruti,Swift,"4,172 ",1st
+1,ZXI+ Manual,"₹14,107/month","₹7,21,599",Petrol,2020,Maruti,Swift,"7,720 ",1st
+2,VXI Manual,"₹11,828/month","₹6,04,999",Petrol,2019,Maruti,Swift,"34,269 ",2nd
+3,MAGNA 1.2 KAPPA2 Manual,"₹4,403/month","₹2,25,199",Petrol,2011,Hyundai,i10,"96,280 ",2nd
+4,"₹32,700off","₹13,988/month","₹7,15,499",Petrol,2021,Nissan,MAGNITE,"16,550 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹47,500off","₹37,607/month","₹20,02,599",Petrol,2021,Mahindra,XUV700,"5,801 ",1st
+7,VXI Manual,"₹12,635/month","₹6,46,299",Petrol,2020,Maruti,Swift,"55,412 ",1st
+8,XZ 1.2 REVOTRON Manual,"₹8,487/month","₹4,34,099",Petrol,2018,Tata,Tiago,"84,145 ",2nd
+9,"₹11,200off","₹5,165/month","₹2,64,199",Petrol,2015,Hyundai,Eon,"78,282 ",3rd
+10,"₹6,900off","₹15,329/month","₹8,16,299",Petrol,2021,Nissan,MAGNITE,"20,233 ",1st
+11,"₹5,000off","₹7,476/month","₹3,82,399",Petrol,2018,Maruti,Alto K10,"8,108 ",1st
+12,W11 (O) Manual,"₹30,082/month","₹16,01,899",Diesel,2019,Mahindra,XUV500,"29,398 ",2nd
+13,1.2 SPORTS PLUS VTVT Manual,"₹13,873/month","₹7,09,599",Petrol,2019,Hyundai,Elite i20,"22,553 ",1st
+14,"₹20,200off","₹26,522/month","₹14,12,299",Petrol,2022,MG,ASTOR,"8,582 ",1st
+15,"₹18,000off","₹17,771/month","₹9,46,299",Diesel,2014,Toyota,Innova,"82,425 ",1st
+16,RXT Manual,"₹8,710/month","₹4,45,499",Petrol,2020,Renault,Kwid,"7,911 ",1st
+17,ZDI + Manual,"₹14,637/month","₹7,48,699",Diesel,2019,Maruti,Swift,"38,472 ",1st
+18,VXI Manual,"₹8,541/month","₹4,36,899",Petrol,2018,Maruti,Celerio,"71,880 ",1st
+19,PRESTIGE 2.0 MT 7STR ,"₹32,388/month","₹17,24,699",Petrol,2022,Hyundai,ALCAZAR,"8,864 ",1st
+20,3.0 AT 4X2 Automatic,"₹19,652/month","₹10,46,499",Diesel,2012,Toyota,Fortuner,"91,816 ",2nd
+0,VXI Manual,"₹11,466/month","₹5,86,499",Petrol,2020,Maruti,Swift,"57,330 ",1st
+1,1.0 RXT Manual,"₹6,457/month","₹3,30,299",Petrol,2018,Renault,Kwid,"62,746 ",2nd
+2,"₹5,000off","₹12,344/month","₹6,31,399",Petrol,2020,Maruti,Swift,"22,937 ",2nd
+3,LXI Manual,"₹12,072/month","₹6,17,499",Petrol,2021,Maruti,Swift,"8,165 ",1st
+4,VXI 1.0 Manual,"₹11,067/month","₹5,66,099",Petrol,2020,Maruti,New  Wagon-R,"4,685 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,COMFORTLINE TDI AT Automatic,"₹11,572/month","₹5,91,899",Diesel,2016,Volkswagen,Vento,"63,696 ",1st
+7,LXI Manual,"₹7,603/month","₹3,88,899",Petrol,2021,Maruti,Alto,"2,458 ",1st
+8,"₹14,600off","₹10,143/month","₹5,18,799",Petrol,2020,Maruti,New  Wagon-R,"16,258 ",1st
+9,SPORTZ 1.2 Manual,"₹9,926/month","₹5,07,699",Petrol,2016,Hyundai,Elite i20,"61,650 ",1st
+10,LXI CNG 1.0 L Manual,"₹11,419/month","₹5,84,099",OwnerPetrol + CNG,2020,Maruti,New  Wagon-R,"79,333 ",1st
+11,MAGNA 1.2 KAPPA VTVT Manual,"₹8,583/month","₹4,38,999",Petrol,2016,Hyundai,Grand i10,"18,429 ",3rd
+12,VXI Manual,"₹11,196/month","₹5,72,699",Petrol,2018,Maruti,Swift,"45,332 ",1st
+13,"₹72,300off","₹9,515/month","₹4,86,699",Petrol,2019,Hyundai,Grand i10,"14,894 ",1st
+14,"₹74,500off","₹9,718/month","₹4,97,099",Petrol,2018,Hyundai,Grand i10,"65,440 ",1st
+15,"₹29,500off","₹8,606/month","₹4,40,199",Petrol,2016,Hyundai,Grand i10,"37,707 ",2nd
+16,VXI Manual,"₹13,900/month","₹7,10,999",Petrol,2021,Maruti,Swift,"13,579 ",1st
+17,LXI Manual,"₹6,880/month","₹3,51,899",Petrol,2019,Maruti,Alto 800,"9,790 ",1st
+18,SPORTZ 1.1 Manual,"₹9,816/month","₹5,02,099",Petrol,2018,Hyundai,NEW SANTRO,"13,888 ",1st
+19,XZ PLUS 1.2 REVOTRON Manual,"₹14,074/month","₹7,19,899",Petrol,2021,Tata,TIGOR,"14,614 ",1st
+20,MAGNA 1.2 KAPPA VTVT Manual,"₹8,350/month","₹4,27,099",Petrol,2017,Hyundai,Grand i10,"41,191 ",1st
+0,S 1.2 Manual,"₹8,907/month","₹4,55,599",Petrol,2015,Hyundai,Xcent,"35,736 ",1st
+1,VDI OPT Manual,"₹12,407/month","₹6,34,599",Diesel,2017,Maruti,Vitara Brezza,"28,585 ",2nd
+2,VXI Manual,"₹6,188/month","₹3,16,499",Petrol,2014,Maruti,Alto 800,"16,317 ",1st
+3,"₹62,000off","₹26,353/month","₹14,03,299",Diesel,2020,KIA,SELTOS,"33,981 ",2nd
+4,VXI Manual,"₹11,269/month","₹5,76,399",Petrol,2018,Maruti,Swift,"21,372 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹11,000off","₹7,718/month","₹3,94,799",Petrol,2014,Hyundai,Grand i10,"17,239 ",2nd
+7,"₹15,800off","₹14,111/month","₹7,21,799",Petrol,2021,Maruti,Swift,"4,985 ",2nd
+8,"₹5,000off","₹3,599/month","₹1,84,099",Petrol,2010,Maruti,Alto,"55,163 ",1st
+9,"₹34,100off","₹13,228/month","₹6,76,599",Petrol,2020,Hyundai,Elite i20,"28,785 ",1st
+10,LXI Manual,"₹5,431/month","₹2,77,799",Petrol,2017,Maruti,Alto 800,"11,559 ",2nd
+11,SX 1.2 OPT Manual,"₹8,391/month","₹4,29,199",Petrol,2014,Hyundai,Xcent,"87,292 ",1st
+12,W8(O) Manual,"₹16,839/month","₹8,96,699",Diesel,2019,Mahindra,XUV 3OO,"68,904 ",2nd
+13,EMOTION MULTIJET 1.3 ,"₹11,140/month","₹5,69,799",Diesel,2018,Fiat,URBAN CROSS,"26,932 ",1st
+14,RXL Manual,"₹7,429/month","₹3,79,999",Petrol,2019,Renault,Kwid,"3,589 ",1st
+15,DELTA 1.2 K12 Manual,"₹11,552/month","₹5,90,899",Petrol,2020,Maruti,Baleno,"29,525 ",2nd
+16,SPORTZ 1.2 KAPPA2 Manual,"₹6,356/month","₹3,25,099",Petrol,2013,Hyundai,i10,"43,525 ",1st
+17,LXI 1.0 L Manual,"₹10,184/month","₹5,20,899",Petrol,2019,Maruti,New  Wagon-R,"13,184 ",1st
+18,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+19,LXI Manual,"₹11,020/month","₹5,63,699",Petrol,2019,Maruti,Swift,"18,981 ",1st
+20,LXI Manual,"₹10,428/month","₹5,33,399",Petrol,2019,Maruti,Swift,"27,808 ",1st
+0,"₹6,400off","₹5,830/month","₹2,98,199",Petrol,2016,Maruti,Alto 800,"23,101 ",1st
+1,"₹26,300off","₹16,107/month","₹8,57,699",Petrol,2020,Skoda,Rapid,"7,901 ",1st
+2,1.5 TITANIUM TI VCT AT Automatic,"₹13,976/month","₹7,14,899",Petrol,2018,Ford,Ecosport,"39,153 ",1st
+3,VXI 1.0 Manual,"₹11,034/month","₹5,64,399",Petrol,2020,Maruti,New  Wagon-R,"13,822 ",2nd
+4,"₹38,100off","₹8,864/month","₹4,53,399",Petrol,2015,Hyundai,Grand i10,"31,124 ",3rd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹8,751/month","₹4,47,599",Petrol,2017,Maruti,Wagon R 1.0,"16,806 ",1st
+7,VXI Manual,"₹7,703/month","₹3,93,999",Petrol,2017,Maruti,Wagon R 1.0,"11,441 ",3rd
+8,"₹5,000off","₹13,877/month","₹7,09,799",Diesel,2016,Maruti,Vitara Brezza,"82,808 ",2nd
+9,RXT Opt Manual,"₹7,754/month","₹3,96,599",Petrol,2019,Renault,Kwid,"40,096 ",1st
+10,LXI Manual,"₹5,529/month","₹2,82,799",Petrol,2017,Maruti,Alto 800,"63,674 ",1st
+11,VXI AMT Automatic,"₹8,686/month","₹4,44,299",Petrol,2016,Maruti,Celerio,"43,752 ",1st
+12,"₹28,100off","₹7,255/month","₹3,71,099",Petrol,2019,Renault,Kwid,"31,827 ",1st
+13,VX MT PETROL Manual,"₹12,248/month","₹6,26,499",Petrol,2015,Honda,City,"26,083 ",3rd
+14,RXT 1.0 EASY-R AT OPTION Automatic,"₹8,031/month","₹4,10,799",Petrol,2018,Renault,Kwid,"13,755 ",1st
+15,LXI Manual,"₹6,854/month","₹3,50,599",Petrol,2018,Maruti,Alto 800,"10,962 ",1st
+16,LXI Manual,"₹6,420/month","₹3,28,399",Petrol,2013,Maruti,Wagon R 1.0,"39,951 ",1st
+17,VXI 1.2L Manual,"₹10,436/month","₹5,33,799",Petrol,2019,Maruti,New  Wagon-R,"27,092 ",1st
+18,VXI Manual,"₹7,677/month","₹3,92,699",Petrol,2014,Maruti,Wagon R 1.0,"20,293 ",1st
+19,"₹28,000off","₹26,745/month","₹14,24,199",Petrol,2019,MG,HECTOR,"22,092 ",2nd
+20,"₹19,300off","₹6,942/month","₹3,55,099",Petrol,2019,Maruti,Alto,"14,605 ",1st
+0,VXI 1.2 BS IV Manual,"₹8,715/month","₹4,45,799",Petrol,2014,Maruti,Swift Dzire,"56,838 ",1st
+1,S CRDI Manual,"₹26,377/month","₹14,04,599",Diesel,2021,Hyundai,Creta,"18,185 ",1st
+2,VDI OPT Manual,"₹11,918/month","₹6,09,599",Diesel,2017,Maruti,Swift,"53,478 ",2nd
+3,LXI Manual,"₹7,568/month","₹3,87,099",Petrol,2017,Maruti,Wagon R 1.0,"26,189 ",1st
+4,ZDI SHVS Manual,"₹13,585/month","₹6,94,899",Diesel,2016,Maruti,Ciaz,"42,184 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹7,034/month","₹3,59,799",Petrol,2015,Maruti,Wagon R 1.0,"31,337 ",2nd
+7,1.2 Manual,"₹11,904/month","₹6,08,899",Petrol,2016,Hyundai,i20 Active,"20,257 ",2nd
+8,1.4 SPORTS PLUS CRDI Manual,"₹15,464/month","₹8,23,499",Diesel,2019,Hyundai,Elite i20,"66,459 ",1st
+9,1.2 SPORTS PLUS VTVT Manual,"₹14,344/month","₹7,33,699",Petrol,2019,Hyundai,Elite i20,"13,615 ",1st
+10,"₹15,800off","₹9,779/month","₹5,00,199",Petrol,2016,Hyundai,Grand i10,"21,628 ",1st
+11,1.6 SX CRDI Manual,"₹16,580/month","₹8,82,899",Diesel,2015,Hyundai,Creta,"73,155 ",1st
+12,"₹5,300off","₹6,399/month","₹3,27,299",Petrol,2013,Maruti,Wagon R 1.0,"76,610 ",1st
+13,"₹22,600off","₹6,839/month","₹3,49,799",Petrol,2015,Maruti,Alto K10,"19,480 ",1st
+14,"₹9,000off","₹9,374/month","₹4,79,499",Petrol,2018,Maruti,IGNIS,"8,658 ",2nd
+15,"₹17,100off","₹7,664/month","₹3,91,999",Petrol,2018,Maruti,Alto K10,"11,522 ",1st
+16,"₹33,500off","₹9,310/month","₹4,76,199",Petrol,2017,Maruti,IGNIS,"15,961 ",1st
+17,2.5 VX 8 STR BS IV Manual,"₹17,682/month","₹9,41,599",Diesel,2014,Toyota,Innova,"1,25,153 ",1st
+18,"₹37,200off","₹13,685/month","₹6,99,999",Petrol,2019,Toyota,Glanza,"19,359 ",1st
+19,"₹16,300off","₹9,671/month","₹4,94,699",Petrol,2019,Maruti,IGNIS,"31,140 ",1st
+20,VXI Manual,"₹6,356/month","₹3,25,099",Petrol,2015,Maruti,Alto K10,"44,178 ",1st
+0,VXI Manual,"₹6,725/month","₹3,43,999",Petrol,2015,Maruti,Wagon R 1.0,"32,489 ",1st
+1,VXI Manual,"₹6,432/month","₹3,28,999",Petrol,2014,Maruti,Wagon R 1.0,"20,379 ",1st
+2,VXI Manual,"₹5,460/month","₹2,79,299",Petrol,2011,Maruti,Wagon R 1.0,"41,065 ",1st
+3,ASTA 1.2 KAPPA VTVT Manual,"₹7,410/month","₹3,78,999",Petrol,2015,Hyundai,Grand i10,"63,203 ",3rd
+4,SPORTZ 1.2 AT KAPPA2 Automatic,"₹7,947/month","₹4,06,499",Petrol,2013,Hyundai,i10,"12,030 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,ZXI 1.2 BS IV Manual,"₹9,149/month","₹4,67,999",Petrol,2014,Maruti,Swift Dzire,"32,520 ",1st
+7,XL Turbo CVT ,"₹16,253/month","₹8,65,499",Petrol,2021,Nissan,MAGNITE,"16,264 ",1st
+8,VXI Manual,"₹9,861/month","₹5,04,399",Petrol,2016,Maruti,Swift,"14,907 ",2nd
+9,DELTA 1.2 K12 Manual,"₹10,358/month","₹5,29,799",Petrol,2016,Maruti,Baleno,"28,528 ",2nd
+10,VXI Manual,"₹4,581/month","₹2,34,299",Petrol,2013,Maruti,Alto K10,"32,639 ",3rd
+11,"₹5,000off","₹8,944/month","₹4,57,499",Petrol,2015,Toyota,Etios Liva,"62,298 ",1st
+12,"₹56,900off","₹10,735/month","₹5,49,099",Petrol,2017,Maruti,Baleno,"33,898 ",2nd
+13,HIGHLINE1.2L PETROL Manual,"₹10,792/month","₹5,51,999",Petrol,2017,Volkswagen,Polo,"60,109 ",2nd
+14,250 CDI ELEGANCE AT Automatic,"₹15,881/month","₹8,45,699",Diesel,2011,Mercedes,Benz C Class,"43,879 ",2nd
+15,"₹34,000off","₹10,309/month","₹5,27,299",Petrol,2020,Maruti,New  Wagon-R,"9,083 ",2nd
+16,LXI Manual,"₹5,932/month","₹3,03,399",Petrol,2018,Maruti,Alto 800,"28,024 ",1st
+17,V  LIMITED Manual,"₹9,828/month","₹5,02,699",Petrol,2016,Toyota,Etios Liva,"36,327 ",1st
+18,"₹38,000off","₹17,990/month","₹9,57,999",Petrol,2022,Renault,Kiger,"5,914 ",1st
+19,ASTA 1.2 Manual,"₹9,105/month","₹4,65,699",Petrol,2013,Hyundai,i20,"39,530 ",1st
+20,"₹52,000off","₹12,510/month","₹6,39,899",Petrol,2019,Hyundai,Elite i20,"22,144 ",1st
+0,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"10,806 ",1st
+1,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"12,031 ",1st
+2,"₹46,400off","₹19,782/month","₹10,53,399",Petrol,2021,KIA,SONET,"10,079 ",1st
+3,LXI Manual,"₹11,269/month","₹5,76,399",Petrol,2019,Maruti,Swift,"15,237 ",1st
+4,LXI Manual,"₹12,278/month","₹6,27,999",Petrol,2021,Maruti,Swift,"4,524 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,XE 1.2 Manual,"₹12,551/month","₹6,41,999",Petrol,2021,Tata,ALTROZ,"7,708 ",1st
+7,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+8,LXI Manual,"₹11,020/month","₹5,63,699",Petrol,2019,Maruti,Swift,"18,981 ",1st
+9,XT 1.2 REVOTRON Manual,"₹11,642/month","₹5,95,499",Petrol,2021,Tata,Tiago,"2,608 ",1st
+10,SIGMA 1.2 K12 Manual,"₹11,750/month","₹6,00,999",Petrol,2020,Maruti,Baleno,"13,525 ",1st
+11,VXI Manual,"₹11,791/month","₹6,03,099",Petrol,2019,Maruti,Swift,"23,926 ",1st
+12,MAGNA 1.2 VTVT Manual,"₹5,183/month","₹2,65,099",Petrol,2012,Hyundai,i20,"75,862 ",3rd
+13,DELTA 1.2 K12 Manual,"₹14,186/month","₹7,25,599",Petrol,2020,Maruti,Baleno,"4,260 ",1st
+14,ERA PLUS Manual,"₹5,069/month","₹2,59,299",Petrol,2016,Hyundai,Eon,"44,329 ",1st
+15,"₹5,000off","₹13,366/month","₹6,83,699",Petrol,2021,Hyundai,AURA,"4,912 ",1st
+16,VXI 1.0 Manual,"₹11,454/month","₹5,85,899",Petrol,2021,Maruti,New  Wagon-R,"3,371 ",1st
+17,RXL Manual,"₹7,429/month","₹3,79,999",Petrol,2019,Renault,Kwid,"3,589 ",1st
+18,LXI Manual,"₹5,849/month","₹2,99,199",Petrol,2016,Maruti,Alto 800,"10,839 ",1st
+19,VXI Manual,"₹11,488/month","₹5,87,599",Petrol,2018,Maruti,Swift,"16,534 ",1st
+20,LXI Manual,"₹10,575/month","₹5,40,899",Petrol,2020,Maruti,Swift,"38,382 ",1st
+0,"₹72,000off","₹28,148/month","₹14,98,899",Petrol,2020,MG,HECTOR,"6,770 ",1st
+1,"₹7,900off","₹5,173/month","₹2,64,599",Petrol,2013,Hyundai,i10,"52,068 ",2nd
+2,1.0 VXI (O) Manual,"₹10,561/month","₹5,40,199",Petrol,2020,Maruti,New  Wagon-R,"7,106 ",1st
+3,VXI Manual,"₹5,601/month","₹2,86,499",Petrol,2017,Maruti,Alto 800,"22,025 ",3rd
+4,LXI Manual,"₹5,071/month","₹2,59,399",Petrol,2014,Maruti,Alto 800,"20,132 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹12,000off","₹5,374/month","₹2,74,899",Petrol,2013,Honda,Brio,"42,293 ",2nd
+7,GTX 1.4 GDI PETROL Manual,"₹27,913/month","₹14,86,399",Petrol,2019,KIA,SELTOS,"15,531 ",1st
+8,ERA PLUS Manual,"₹5,265/month","₹2,69,299",Petrol,2017,Hyundai,Eon,"52,492 ",1st
+9,"₹15,300off","₹5,196/month","₹2,65,799",Petrol,2012,Hyundai,i10,"45,329 ",1st
+10,"₹5,000off","₹5,052/month","₹2,58,399",Petrol,2015,Maruti,Alto 800,"26,462 ",2nd
+11,T8 Manual,"₹13,685/month","₹6,99,999",Diesel,2018,Mahindra,TUV300,"39,551 ",2nd
+12,1.0 RXT Opt Manual,"₹7,910/month","₹4,04,599",Petrol,2020,Renault,Kwid,"36,586 ",1st
+13,RXT Opt Manual,"₹5,171/month","₹2,64,499",Petrol,2017,Renault,Kwid,"99,403 ",1st
+14,XZ 1.2 REVOTRON Manual,"₹7,914/month","₹4,04,799",Petrol,2018,Tata,Tiago,"47,130 ",2nd
+15,LXI Manual,"₹5,259/month","₹2,68,999",Petrol,2014,Maruti,Alto 800,"25,376 ",1st
+16,VXI Manual,"₹7,089/month","₹3,62,599",Petrol,2015,Maruti,Alto K10,"1,630 ",1st
+17,ERA PLUS Manual,"₹5,255/month","₹2,68,799",Petrol,2014,Hyundai,Eon,"29,246 ",1st
+18,MAGNA O 1.2 Manual,"₹5,914/month","₹3,02,499",Petrol,2010,Hyundai,i20,"20,795 ",1st
+19,VXI Manual,"₹7,914/month","₹4,04,799",Petrol,2016,Maruti,Swift,"32,508 ",2nd
+20,"₹5,000off","₹4,606/month","₹2,35,599",Petrol,2012,Maruti,Alto K10,"27,073 ",1st
+0,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"10,806 ",1st
+1,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"12,031 ",1st
+2,"₹46,400off","₹19,782/month","₹10,53,399",Petrol,2021,KIA,SONET,"10,079 ",1st
+3,LXI Manual,"₹11,269/month","₹5,76,399",Petrol,2019,Maruti,Swift,"15,237 ",1st
+4,LXI Manual,"₹12,278/month","₹6,27,999",Petrol,2021,Maruti,Swift,"4,524 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,XE 1.2 Manual,"₹12,551/month","₹6,41,999",Petrol,2021,Tata,ALTROZ,"7,708 ",1st
+7,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+8,LXI Manual,"₹11,020/month","₹5,63,699",Petrol,2019,Maruti,Swift,"18,981 ",1st
+9,XT 1.2 REVOTRON Manual,"₹11,642/month","₹5,95,499",Petrol,2021,Tata,Tiago,"2,608 ",1st
+10,SIGMA 1.2 K12 Manual,"₹11,750/month","₹6,00,999",Petrol,2020,Maruti,Baleno,"13,525 ",1st
+11,VXI Manual,"₹11,791/month","₹6,03,099",Petrol,2019,Maruti,Swift,"23,926 ",1st
+12,MAGNA 1.2 VTVT Manual,"₹5,183/month","₹2,65,099",Petrol,2012,Hyundai,i20,"75,862 ",3rd
+13,DELTA 1.2 K12 Manual,"₹14,186/month","₹7,25,599",Petrol,2020,Maruti,Baleno,"4,260 ",1st
+14,ERA PLUS Manual,"₹5,069/month","₹2,59,299",Petrol,2016,Hyundai,Eon,"44,329 ",1st
+15,"₹5,000off","₹13,366/month","₹6,83,699",Petrol,2021,Hyundai,AURA,"4,912 ",1st
+16,VXI 1.0 Manual,"₹11,454/month","₹5,85,899",Petrol,2021,Maruti,New  Wagon-R,"3,371 ",1st
+17,RXL Manual,"₹7,429/month","₹3,79,999",Petrol,2019,Renault,Kwid,"3,589 ",1st
+18,LXI Manual,"₹5,849/month","₹2,99,199",Petrol,2016,Maruti,Alto 800,"10,839 ",1st
+19,VXI Manual,"₹11,488/month","₹5,87,599",Petrol,2018,Maruti,Swift,"16,534 ",1st
+20,LXI Manual,"₹10,575/month","₹5,40,899",Petrol,2020,Maruti,Swift,"38,382 ",1st
+0,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"10,806 ",1st
+1,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"12,031 ",1st
+2,LXI Manual,"₹11,269/month","₹5,76,399",Petrol,2019,Maruti,Swift,"15,237 ",1st
+3,LXI Manual,"₹12,278/month","₹6,27,999",Petrol,2021,Maruti,Swift,"4,524 ",1st
+4,XE 1.2 Manual,"₹12,551/month","₹6,41,999",Petrol,2021,Tata,ALTROZ,"7,708 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+7,LXI Manual,"₹11,020/month","₹5,63,699",Petrol,2019,Maruti,Swift,"18,981 ",1st
+8,XT 1.2 REVOTRON Manual,"₹11,642/month","₹5,95,499",Petrol,2021,Tata,Tiago,"2,608 ",1st
+9,SIGMA 1.2 K12 Manual,"₹11,750/month","₹6,00,999",Petrol,2020,Maruti,Baleno,"13,525 ",1st
+10,VXI Manual,"₹11,791/month","₹6,03,099",Petrol,2019,Maruti,Swift,"23,926 ",1st
+11,MAGNA 1.2 VTVT Manual,"₹5,183/month","₹2,65,099",Petrol,2012,Hyundai,i20,"75,862 ",3rd
+12,DELTA 1.2 K12 Manual,"₹14,186/month","₹7,25,599",Petrol,2020,Maruti,Baleno,"4,260 ",1st
+13,"₹5,000off","₹13,366/month","₹6,83,699",Petrol,2021,Hyundai,AURA,"4,912 ",1st
+14,VXI 1.0 Manual,"₹11,454/month","₹5,85,899",Petrol,2021,Maruti,New  Wagon-R,"3,371 ",1st
+15,RXL Manual,"₹7,429/month","₹3,79,999",Petrol,2019,Renault,Kwid,"3,589 ",1st
+16,LXI Manual,"₹5,849/month","₹2,99,199",Petrol,2016,Maruti,Alto 800,"10,839 ",1st
+17,VXI Manual,"₹11,488/month","₹5,87,599",Petrol,2018,Maruti,Swift,"16,534 ",1st
+18,LXI Manual,"₹10,575/month","₹5,40,899",Petrol,2020,Maruti,Swift,"38,382 ",1st
+19,MAGNA 1.2 KAPPA2 Manual,"₹5,421/month","₹2,77,299",Petrol,2012,Hyundai,i10,"39,135 ",1st
+20,"₹5,000off","₹10,465/month","₹5,35,299",Petrol,2021,Maruti,New  Wagon-R,"9,267 ",1st
+0,SPORTZ 1.2 Manual,"₹10,057/month","₹5,14,399",Petrol,2016,Hyundai,Elite i20,"39,077 ",1st
+1,"₹13,000off","₹17,076/month","₹9,09,299",Diesel,2020,Hyundai,AURA,"12,464 ",1st
+2,LXI Manual,"₹5,750/month","₹2,94,099",Petrol,2018,Maruti,Alto 800,"12,028 ",2nd
+3,"₹11,000off","₹11,259/month","₹5,75,899",Petrol,2017,Maruti,Baleno,"9,200 ",1st
+4,MAGNA 1.2 KAPPA VTVT Manual,"₹8,739/month","₹4,46,999",Petrol,2017,Hyundai,Grand i10,"25,815 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹7,000off","₹10,606/month","₹5,42,499",Petrol,2018,Volkswagen,Polo,"50,789 ",1st
+7,ZXI AMT Automatic,"₹9,264/month","₹4,73,849",Petrol,2017,Maruti,Celerio,"80,446 ",1st
+8,"₹13,000off","₹5,406/month","₹2,76,499",Petrol,2018,Maruti,Alto 800,"97,458 ",1st
+9,SPORTS 1.2 VTVT Manual,"₹9,083/month","₹4,64,599",Petrol,2016,Hyundai,Grand i10,"30,945 ",1st
+10,"₹12,000off","₹7,384/month","₹3,77,699",Petrol,2017,Maruti,Wagon R 1.0,"29,124 ",1st
+11,MAGNA 1.1 IRDE2 Manual,"₹6,614/month","₹3,38,299",Petrol,2015,Hyundai,i10,"41,280 ",1st
+12,"₹10,000off","₹9,548/month","₹4,88,399",Petrol,2017,Maruti,Swift,"50,727 ",2nd
+13,1.2 SMT I VTEC Manual,"₹10,100/month","₹5,16,599",Petrol,2016,Honda,Amaze,"40,195 ",1st
+14,"₹5,500off","₹5,675/month","₹2,90,299",Petrol,2018,Maruti,Alto 800,"43,196 ",1st
+15,VXI Manual,"₹10,886/month","₹5,56,799",Petrol,2018,Maruti,Swift,"46,568 ",2nd
+16,"₹10,000off","₹10,463/month","₹5,35,199",Petrol,2018,Honda,Jazz,"30,802 ",2nd
+17,"₹30,600off","₹10,291/month","₹5,26,399",Petrol,2017,Maruti,Baleno,"76,946 ",1st
+18,MAGNA 1.2 VTVT Manual,"₹8,669/month","₹4,43,399",Petrol,2016,Hyundai,Grand i10,"56,291 ",1st
+19,ZXI Manual,"₹10,905/month","₹5,57,799",Petrol,2017,Maruti,Swift,"45,091 ",1st
+20,S 1.2 Manual,"₹10,274/month","₹5,25,499",Petrol,2016,Hyundai,Xcent,"29,543 ",2nd
+0,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"10,806 ",1st
+1,LXI Manual,"₹11,583/month","₹5,92,499",Petrol,2020,Maruti,Swift,"12,031 ",1st
+2,LXI Manual,"₹11,269/month","₹5,76,399",Petrol,2019,Maruti,Swift,"15,237 ",1st
+3,LXI Manual,"₹12,278/month","₹6,27,999",Petrol,2021,Maruti,Swift,"4,524 ",1st
+4,XE 1.2 Manual,"₹12,551/month","₹6,41,999",Petrol,2021,Tata,ALTROZ,"7,708 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,LXI Manual,"₹10,606/month","₹5,42,499",Petrol,2019,Maruti,Swift,"12,046 ",2nd
+7,LXI Manual,"₹11,020/month","₹5,63,699",Petrol,2019,Maruti,Swift,"18,981 ",1st
+8,XT 1.2 REVOTRON Manual,"₹11,642/month","₹5,95,499",Petrol,2021,Tata,Tiago,"2,608 ",1st
+9,SIGMA 1.2 K12 Manual,"₹11,750/month","₹6,00,999",Petrol,2020,Maruti,Baleno,"13,525 ",1st
+10,VXI Manual,"₹11,791/month","₹6,03,099",Petrol,2019,Maruti,Swift,"23,926 ",1st
+11,MAGNA 1.2 VTVT Manual,"₹5,183/month","₹2,65,099",Petrol,2012,Hyundai,i20,"75,862 ",3rd
+12,DELTA 1.2 K12 Manual,"₹14,186/month","₹7,25,599",Petrol,2020,Maruti,Baleno,"4,260 ",1st
+13,"₹5,000off","₹13,366/month","₹6,83,699",Petrol,2021,Hyundai,AURA,"4,912 ",1st
+14,VXI 1.0 Manual,"₹11,454/month","₹5,85,899",Petrol,2021,Maruti,New  Wagon-R,"3,371 ",1st
+15,RXL Manual,"₹7,429/month","₹3,79,999",Petrol,2019,Renault,Kwid,"3,589 ",1st
+16,LXI Manual,"₹5,849/month","₹2,99,199",Petrol,2016,Maruti,Alto 800,"10,839 ",1st
+17,VXI Manual,"₹11,488/month","₹5,87,599",Petrol,2018,Maruti,Swift,"16,534 ",1st
+18,LXI Manual,"₹10,575/month","₹5,40,899",Petrol,2020,Maruti,Swift,"38,382 ",1st
+19,MAGNA 1.2 KAPPA2 Manual,"₹5,421/month","₹2,77,299",Petrol,2012,Hyundai,i10,"39,135 ",1st
+20,"₹5,000off","₹10,465/month","₹5,35,299",Petrol,2021,Maruti,New  Wagon-R,"9,267 ",1st
+0,"₹9,200off","₹8,864/month","₹4,53,399",Petrol,2015,Volkswagen,Polo,"68,401 ",2nd
+1,"₹20,000off","₹5,855/month","₹2,99,499",Petrol,2018,Maruti,Alto 800,"30,253 ",1st
+2,"₹23,700off","₹11,894/month","₹6,08,399",Petrol,2019,Maruti,Swift,"47,289 ",1st
+3,SPORTZ O 1.2 Manual,"₹11,067/month","₹5,66,099",Petrol,2018,Hyundai,Grand i10,"10,381 ",1st
+4,1.0 RXT Opt Manual,"₹7,032/month","₹3,59,699",Petrol,2018,Renault,Kwid,"20,153 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹8,532/month","₹4,36,399",Petrol,2018,Maruti,Celerio,"31,324 ",1st
+7,ZXI Manual,"₹8,553/month","₹4,37,499",Petrol,2018,Maruti,Celerio,"71,195 ",2nd
+8,RXT 1.0 EASY-R AT OPTION Automatic,"₹8,330/month","₹4,26,099",Petrol,2020,Renault,Kwid,"23,174 ",1st
+9,1.0 RXT Opt Manual,"₹7,427/month","₹3,79,899",Petrol,2018,Renault,Kwid,"22,013 ",1st
+10,ZXI Manual,"₹8,358/month","₹4,27,499",Petrol,2014,Maruti,Swift,"63,475 ",2nd
+11,ZXI 1.2 Manual,"₹10,768/month","₹5,50,799",Petrol,2020,Maruti,New  Wagon-R,"10,341 ",1st
+12,"₹25,200off","₹22,903/month","₹12,19,599",Diesel,2018,Jeep,Compass,"79,592 ",1st
+13,RXT Opt Manual,"₹6,727/month","₹3,44,099",Petrol,2017,Renault,Kwid,"35,070 ",2nd
+14,MAGNA 1.2 VTVT Manual,"₹10,170/month","₹5,20,199",Petrol,2017,Hyundai,Grand i10,"13,383 ",1st
+15,"₹28,100off","₹22,298/month","₹11,87,399",Petrol,2022,Hyundai,NEW I20 N LINE,"2,913 ",1st
+16,"₹11,800off","₹9,634/month","₹4,92,799",Petrol,2018,Maruti,Wagon R 1.0,"6,847 ",1st
+17,"₹14,000off","₹31,569/month","₹16,81,099",Diesel,2020,KIA,SELTOS,"11,397 ",2nd
+18,HTX+ MT 1.5 DIESEL Manual,"₹32,589/month","₹17,35,399",Diesel,2021,KIA,SELTOS,"6,026 ",1st
+19,ERA PLUS Manual,"₹6,397/month","₹3,27,199",Petrol,2016,Hyundai,Eon,"37,163 ",1st
+20,MAGNA 1.2 KAPPA VTVT Manual,"₹9,539/month","₹4,87,949",Petrol,2017,Hyundai,Grand i10,"17,644 ",1st
+0,LX Manual,"₹3,599/month","₹1,84,099",Petrol,2010,Maruti,Alto,"7,956 ",1st
+1,"₹20,350off","₹4,351/month","₹2,22,549",Petrol,2016,Maruti,Alto 800,"1,01,405 ",1st
+2,"₹8,000off","₹3,904/month","₹1,99,699",Petrol,2009,Hyundai,i10,"62,164 ",2nd
+3,"₹8,000off","₹8,543/month","₹4,36,999",Petrol,2018,Hyundai,Grand i10,"21,782 ",1st
+4,"₹8,000off","₹4,667/month","₹2,38,699",Petrol,2008,Hyundai,i10,"23,872 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹85,800off","₹9,456/month","₹4,83,699",Petrol,2016,Hyundai,Elite i20,"55,422 ",2nd
+7,"₹31,800off","₹9,365/month","₹4,78,999",Petrol,2019,Maruti,Celerio,"9,553 ",1st
+8,"₹10,000off","₹4,532/month","₹2,31,799",Petrol,2014,Hyundai,Eon,"39,971 ",3rd
+9,"₹5,000off","₹8,995/month","₹4,60,099",Petrol,2018,Hyundai,Grand i10,"22,695 ",1st
+10,"₹26,000off","₹8,549/month","₹4,37,299",Petrol,2018,Hyundai,Grand i10,"34,938 ",3rd
+11,SPORTZ 1.1 IRDE2 Manual,"₹6,158/month","₹3,14,999",Petrol,2014,Hyundai,i10,"28,062 ",3rd
+12,"₹10,000off","₹4,393/month","₹2,24,699",Petrol,2013,Maruti,Alto 800,"50,142 ",4th
+13,"₹21,000off","₹6,772/month","₹3,46,399",Petrol,2014,Hyundai,Grand i10,"66,607 ",1st
+14,VXI OPT Manual,"₹10,565/month","₹5,40,399",Petrol,2016,Maruti,Swift,"27,254 ",1st
+15,"₹6,000off","₹3,943/month","₹2,01,699",Petrol,2009,Hyundai,i10,"87,582 ",1st
+16,"₹10,000off","₹4,221/month","₹2,15,899",Petrol,2013,Maruti,Alto 800,"79,382 ",1st
+17,"₹12,900off","₹7,613/month","₹3,89,399",Petrol,2018,Maruti,Eeco,"22,471 ",1st
+18,"₹22,000off","₹7,427/month","₹3,79,899",Petrol,2014,Hyundai,Grand i10,"59,850 ",1st
+19,"₹28,000off","₹8,927/month","₹4,56,599",Petrol,2016,Hyundai,Grand i10,"56,243 ",1st
+20,"₹5,000off","₹4,436/month","₹2,26,899",Petrol,2010,Maruti,Wagon R,"76,764 ",2nd
+0,"₹35,500off","₹25,934/month","₹13,80,999",Petrol,2016,Volvo,V40 Cross Country,"21,635 ",1st
+1,VXI Manual,"₹12,999/month","₹6,64,899",Petrol,2020,Maruti,Swift,"17,554 ",1st
+2,VXI Manual,"₹7,716/month","₹3,94,699",Petrol,2017,Maruti,Celerio,"93,472 ",1st
+3,VXI Manual,"₹11,867/month","₹6,06,999",Petrol,2019,Maruti,Swift,"72,729 ",1st
+4,"₹28,500off","₹11,894/month","₹6,08,399",Petrol,2020,Volkswagen,Polo,"37,189 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹5,000off","₹7,689/month","₹3,93,299",Petrol,2015,Hyundai,i10,"17,028 ",2nd
+7,"₹43,300off","₹28,144/month","₹14,98,699",Petrol,2022,Skoda,KUSHAQ,"4,340 ",1st
+8,"₹34,300off","₹15,345/month","₹7,84,899",Petrol,2021,Renault,Kiger,"4,401 ",1st
+9,"₹58,400off","₹59,082/month","₹31,46,199",Diesel,2018,Jeep,GRAND CHEROKEE,"90,443 ",1st
+10,"₹30,500off","₹10,250/month","₹5,24,299",Petrol,2020,Maruti,New  Wagon-R,"6,648 ",2nd
+11,COMFORTLINE 1.0 PETROL Manual,"₹10,665/month","₹5,45,499",Petrol,2018,Volkswagen,Polo,"27,071 ",1st
+12,GT TSI AT 1.0 Automatic,"₹16,428/month","₹8,74,799",Petrol,2020,Volkswagen,Polo,"8,615 ",2nd
+13,"₹54,700off","₹31,951/month","₹17,01,399",Petrol,2022,MG,ASTOR,"15,724 ",1st
+14,"₹5,000off","₹10,150/month","₹5,19,199",Petrol,2015,Maruti,Swift Dzire,"94,168 ",1st
+15,"₹30,100off","₹9,189/month","₹4,69,999",Petrol,2020,Maruti,New  Wagon-R,"47,101 ",1st
+16,5 STR WITH AC PLUSHTR Manual,"₹10,389/month","₹5,31,399",Petrol,2021,Maruti,Eeco,"2,833 ",1st
+17,"₹27,900off","₹9,431/month","₹4,82,399",Petrol,2021,Maruti,Celerio,"21,607 ",2nd
+18,"₹19,600off","₹10,332/month","₹5,28,499",Petrol,2017,Volkswagen,Polo,"90,125 ",1st
+19,"₹46,000off","₹8,328/month","₹4,25,999",Petrol,2021,Datsun,Redi Go,"2,631 ",1st
+20,1.2 MAGNA PLUS VTVT Manual,"₹11,857/month","₹6,06,499",Petrol,2019,Hyundai,Elite i20,"97,453 ",1st
+0,"₹9,200off","₹8,864/month","₹4,53,399",Petrol,2015,Volkswagen,Polo,"68,401 ",2nd
+1,"₹20,000off","₹5,855/month","₹2,99,499",Petrol,2018,Maruti,Alto 800,"30,253 ",1st
+2,"₹23,700off","₹11,894/month","₹6,08,399",Petrol,2019,Maruti,Swift,"47,289 ",1st
+3,SPORTZ O 1.2 Manual,"₹11,067/month","₹5,66,099",Petrol,2018,Hyundai,Grand i10,"10,381 ",1st
+4,1.0 RXT Opt Manual,"₹7,032/month","₹3,59,699",Petrol,2018,Renault,Kwid,"20,153 ",2nd
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,VXI Manual,"₹8,532/month","₹4,36,399",Petrol,2018,Maruti,Celerio,"31,324 ",1st
+7,ZXI Manual,"₹8,553/month","₹4,37,499",Petrol,2018,Maruti,Celerio,"71,195 ",2nd
+8,RXT 1.0 EASY-R AT OPTION Automatic,"₹8,330/month","₹4,26,099",Petrol,2020,Renault,Kwid,"23,174 ",1st
+9,1.0 RXT Opt Manual,"₹7,427/month","₹3,79,899",Petrol,2018,Renault,Kwid,"22,013 ",1st
+10,ZXI Manual,"₹8,358/month","₹4,27,499",Petrol,2014,Maruti,Swift,"63,475 ",2nd
+11,ZXI 1.2 Manual,"₹10,768/month","₹5,50,799",Petrol,2020,Maruti,New  Wagon-R,"10,341 ",1st
+12,"₹25,200off","₹22,903/month","₹12,19,599",Diesel,2018,Jeep,Compass,"79,592 ",1st
+13,RXT Opt Manual,"₹6,727/month","₹3,44,099",Petrol,2017,Renault,Kwid,"35,070 ",2nd
+14,MAGNA 1.2 VTVT Manual,"₹10,170/month","₹5,20,199",Petrol,2017,Hyundai,Grand i10,"13,383 ",1st
+15,"₹28,100off","₹22,298/month","₹11,87,399",Petrol,2022,Hyundai,NEW I20 N LINE,"2,913 ",1st
+16,"₹11,800off","₹9,634/month","₹4,92,799",Petrol,2018,Maruti,Wagon R 1.0,"6,847 ",1st
+17,"₹14,000off","₹31,569/month","₹16,81,099",Diesel,2020,KIA,SELTOS,"11,397 ",2nd
+18,HTX+ MT 1.5 DIESEL Manual,"₹32,589/month","₹17,35,399",Diesel,2021,KIA,SELTOS,"6,026 ",1st
+19,ERA PLUS Manual,"₹6,397/month","₹3,27,199",Petrol,2016,Hyundai,Eon,"37,163 ",1st
+20,MAGNA 1.2 KAPPA VTVT Manual,"₹9,539/month","₹4,87,949",Petrol,2017,Hyundai,Grand i10,"17,644 ",1st
+0,LXI Manual,"₹11,650/month","₹5,95,899",Petrol,2020,Maruti,Swift,"4,172 ",1st
+1,ZXI+ Manual,"₹14,107/month","₹7,21,599",Petrol,2020,Maruti,Swift,"7,720 ",1st
+2,VXI Manual,"₹11,828/month","₹6,04,999",Petrol,2019,Maruti,Swift,"34,269 ",2nd
+3,MAGNA 1.2 KAPPA2 Manual,"₹4,403/month","₹2,25,199",Petrol,2011,Hyundai,i10,"96,280 ",2nd
+4,"₹32,700off","₹13,988/month","₹7,15,499",Petrol,2021,Nissan,MAGNITE,"16,550 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,"₹47,500off","₹37,607/month","₹20,02,599",Petrol,2021,Mahindra,XUV700,"5,801 ",1st
+7,VXI Manual,"₹12,635/month","₹6,46,299",Petrol,2020,Maruti,Swift,"55,412 ",1st
+8,XZ 1.2 REVOTRON Manual,"₹8,487/month","₹4,34,099",Petrol,2018,Tata,Tiago,"84,145 ",2nd
+9,"₹11,200off","₹5,165/month","₹2,64,199",Petrol,2015,Hyundai,Eon,"78,282 ",3rd
+10,"₹6,900off","₹15,329/month","₹8,16,299",Petrol,2021,Nissan,MAGNITE,"20,233 ",1st
+11,"₹5,000off","₹7,476/month","₹3,82,399",Petrol,2018,Maruti,Alto K10,"8,108 ",1st
+12,W11 (O) Manual,"₹30,082/month","₹16,01,899",Diesel,2019,Mahindra,XUV500,"29,398 ",2nd
+13,1.2 SPORTS PLUS VTVT Manual,"₹13,873/month","₹7,09,599",Petrol,2019,Hyundai,Elite i20,"22,553 ",1st
+14,"₹20,200off","₹26,522/month","₹14,12,299",Petrol,2022,MG,ASTOR,"8,582 ",1st
+15,"₹18,000off","₹17,771/month","₹9,46,299",Diesel,2014,Toyota,Innova,"82,425 ",1st
+16,RXT Manual,"₹8,710/month","₹4,45,499",Petrol,2020,Renault,Kwid,"7,911 ",1st
+17,ZDI + Manual,"₹14,637/month","₹7,48,699",Diesel,2019,Maruti,Swift,"38,472 ",1st
+18,VXI Manual,"₹8,541/month","₹4,36,899",Petrol,2018,Maruti,Celerio,"71,880 ",1st
+19,PRESTIGE 2.0 MT 7STR ,"₹32,388/month","₹17,24,699",Petrol,2022,Hyundai,ALCAZAR,"8,864 ",1st
+20,3.0 AT 4X2 Automatic,"₹19,652/month","₹10,46,499",Diesel,2012,Toyota,Fortuner,"91,816 ",2nd
+0,LXI Manual,"₹4,723/month","₹2,41,599",Petrol,2013,Maruti,Alto K10,"39,954 ",1st
+1,"₹7,400off","₹20,826/month","₹11,08,999",Petrol,2020,Hyundai,VENUE,"7,721 ",1st
+2,S9 Manual,"₹29,665/month","₹15,79,699",Diesel,2020,Mahindra,Scorpio,"16,382 ",1st
+3,VXI Manual,"₹13,982/month","₹7,15,199",Petrol,2021,Maruti,Swift,"15,905 ",1st
+4,XE 1.2 REVOTRON Manual,"₹9,552/month","₹4,88,599",Petrol,2020,Tata,Tiago,"11,084 ",1st
+5,Answer a few questions to check EMI offer,n/a,n/a,,n/a,,,/,
+6,ZXI Manual,"₹15,146/month","₹7,74,699",Petrol,2021,Maruti,Swift,"20,624 ",1st
+7,ZDI PLUS DUAL TONE Manual,"₹18,385/month","₹9,78,999",Diesel,2019,Maruti,Vitara Brezza,"14,775 ",1st
+8,ASTA 1.4 CRDI Manual,"₹11,540/month","₹5,90,299",Diesel,2015,Hyundai,Elite i20,"80,718 ",2nd
+9,"₹5,000off","₹9,290/month","₹4,75,199",Petrol,2020,Maruti,Eeco,"9,068 ",1st
+10,"₹24,600off","₹12,792/month","₹6,54,299",Petrol,2018,Honda,City,"79,006 ",1st
+11,SHARP DCT PETROL Automatic,"₹33,246/month","₹17,70,399",Petrol,2021,MG,HECTOR,"4,025 ",1st
+12,"₹5,000off","₹12,625/month","₹6,45,799",Petrol,2019,Honda,Amaze,"22,139 ",2nd
+13,"₹16,400off","₹12,119/month","₹6,19,899",Petrol,2020,Renault,TRIBER,"36,822 ",1st
+14,MAGNA 1.2 KAPPA VTVT Manual,"₹9,308/month","₹4,76,099",Petrol,2017,Hyundai,Grand i10,"21,035 ",1st
+15,VXI AMT Automatic,"₹6,387/month","₹3,26,699",Petrol,2016,Maruti,Alto K10,"31,909 ",2nd
+16,SPORTZ 1.2 Manual,"₹11,814/month","₹6,04,299",Petrol,2018,Hyundai,Elite i20,"19,611 ",2nd
+17,1.1 MAGNA MT Manual,"₹9,756/month","₹4,98,999",Petrol,2019,Hyundai,NEW SANTRO,"19,072 ",1st
+18,"₹8,800off","₹8,238/month","₹4,21,399",Petrol,2019,Maruti,Alto K10,"7,427 ",1st
+19,"₹16,300off","₹9,783/month","₹5,00,399",Petrol,2017,Hyundai,Grand i10,"13,232 ",2nd
+20,1.0 RXT Manual,"₹11,973/month","₹6,12,399",Petrol,2019,Renault,TRIBER,"30,927 ",2nd
